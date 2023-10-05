@@ -118,9 +118,10 @@ def print_markdown(paper_dict):
         ))
 
 if __name__ == "__main__":
-    konrad_profile_url = "https://scholar.google.com/citations?hl=en&user=MiFqJGcAAAAJ&view_op=list_works&sortby=pubdate"
+    C_Li_profile_url = "https://scholar.google.com/citations?hl=en&user=WFkE3QEAAAAJ"
+    T_Gong_profile_url = "https://scholar.google.com/citations?user=yhsnUnMAAAAJ&hl=en"
     session = HTMLSession()
-    citation_links = get_citation_links(session, konrad_profile_url)
+    citation_links = get_citation_links(session, C_Li_profile_url)
 
     paper_data = [get_paper_data(session, url) for url in citation_links]
 
