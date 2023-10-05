@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: /about/
+title: About us
+permalink: /aboutus/
 ---
 
 ### About us
