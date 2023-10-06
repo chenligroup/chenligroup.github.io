@@ -49,60 +49,43 @@ layout: default
           <h3>Recent News</h3>
           <u>Happenings of the last few months</u>
           <span style="display: block; margin-bottom: 1em"></span>
-          <div class="dropdown-content">
-            {% for news in site.data.news %}
-              <div class="news-item">
-                <h4 class="news-title">{{ news.title }}</h4>
-                <div class="news-details">
-                  {{ news.details | markdownify }}
-                </div>
-              </div>
-            {% endfor %}
+          <div class="news">
+            <ul style="list-style-position: outside; padding: 20px">
+              {% for news in site.data.news %}
+                <li>
+                  <div class="news-item">
+                    <h4 class="news-title">{{ news.title }}</h4>
+                    <div class="news-details">
+                      {{ news.details | markdownify }}
+                    </div>
+                  </div>
+                </li>
+              {% endfor %}
+            </ul>
           </div>
         </div>
       </div>
+
       <style>
-        .dropdown-content {
-          display: none;
-        }
-      
-        .dropdown-content.show {
-          display: block;
-        }
-      
-        .news-item {
-          margin-bottom: 10px;
-        }
-      
-        .news-title {
-          cursor: pointer;
-          font-weight: bold;
-        }
-      
         .news-details {
           display: none;
         }
-      
+
         .news-details.show {
           display: block;
         }
       </style>
-      
+
       <script>
-        const dropdownBtn = document.querySelector('.dropdown-btn');
-        const dropdownContent = document.querySelector('.dropdown-content');
         const newsTitles = document.querySelectorAll('.news-title');
-      
+
         newsTitles.forEach(title => {
           title.addEventListener('click', () => {
             title.nextElementSibling.classList.toggle('show');
           });
         });
-      
-        dropdownBtn.addEventListener('click', () => {
-          dropdownContent.classList.toggle('show');
-        });
       </script>
+
 
       <span style="display: block; margin-bottom: 3em"></span>
 
