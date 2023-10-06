@@ -10,7 +10,7 @@ description:        "The Kording Lab is a computational neuroscience and causali
 
 # URL
 # url:                http://chenli.group
-url:                chenligroup.github.io
+url:                https://chenligroup.github.io/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
