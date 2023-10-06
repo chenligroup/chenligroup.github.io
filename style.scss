@@ -547,3 +547,14 @@ tbody tr:nth-child(odd) th {
   border: none;
   background-color: #FFF;
 }
+.news-details {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.news-details.show {
+  opacity: 1;
+  max-height: 1000px;
+}
