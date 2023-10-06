@@ -547,28 +547,3 @@ tbody tr:nth-child(odd) th {
   border: none;
   background-color: #FFF;
 }
-
-.dropdown-content {
-  display: none;
-}
-
-.dropdown-content.show {
-  display: block;
-}
-
-.news-item {
-  margin-bottom: 10px;
-}
-
-.news-title {
-  cursor: pointer;
-  font-weight: bold;
-}
-
-.news-details {
-  display: none;
-}
-
-.news-details.show {
-  display: block;
-}
