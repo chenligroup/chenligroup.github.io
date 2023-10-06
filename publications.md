@@ -294,11 +294,6 @@ _Rarely-switching linear bandits: optimization of causal effects for the real wo
 Benjamin Lansdell, Sofia Triantafillou, Konrad Kording<br>
 arXiv, 2019 ([Article](https://arxiv.org/pdf/1905.13121))
 
-_Sensorimotor priors are effector dependent_<br>
-Cong Yin, Huijun Wang, Kunlin Wei, Konrad P Körding<br>
-Journal of neurophysiology, 2019 ([Article](https://www.physiology.org/doi/pdfplus/10.1152/jn.00228.2018))
-
-
 _Quantifying the role of neurons for behavior is a mediation question_<br>
 Ilenna Simone Jones, Konrad Paul Kording<br>
 arXiv, 2019 ([Article](https://arxiv.org/pdf/1905.02024))
