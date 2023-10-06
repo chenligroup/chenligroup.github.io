@@ -64,8 +64,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Zeyu Gao](https://scholar.google.com/citations?hl=en&user=CeP6dkcAAAAJ) | Ph.D student (2017-2024) | Postdoc at () Laboratory |
-
+| [Zeyu Gao](https://scholar.google.com/citations?hl=en&user=CeP6dkcAAAAJ) | Ph.D student (2017-2024) | Postdoc at Cambridge |
 
 {% endif %}
 {% endfor %}
