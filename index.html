@@ -44,48 +44,6 @@ layout: default
         </div >
       </div>
 -->
-<!--
-      <div class="w3-container" style="background: #f0f8ff; padding: 25px; border-radius: 10px; border: 1px solid #5d8aa8">
-        <div style="text-align: left">
-          <h3>News</h3>
-          <span style="display: block; margin-bottom: 1em"></span>
-          <div class="news">
-            <ul style="list-style-position: outside; padding: 20px">
-              {% for news in site.data.news %}
-                <li>
-                  <div class="news-item">
-                    <h4 class="news-title">{{ news.title }}</h4>
-                    <div class="news-details">
-                      {{ news.details | markdownify }}
-                    </div>
-                  </div>
-                </li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <style>
-        .news-details {
-          display: none;
-        }
-
-        .news-details.show {
-          display: block;
-        }
-      </style>
-
-      <script>
-        const newsTitles = document.querySelectorAll('.news-title');
-
-        newsTitles.forEach(title => {
-          title.addEventListener('click', () => {
-            title.nextElementSibling.classList.toggle('show');
-          });
-        });
-      </script>
--->
       <div class="w3-container" style="background: #f0f8ff; padding: 25px; border-radius: 10px; border: 1px solid #5d8aa8">
         <div style="text-align: left">
           <h3>News</h3>
