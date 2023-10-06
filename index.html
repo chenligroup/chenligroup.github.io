@@ -49,18 +49,15 @@ layout: default
           <h3>Recent News</h3>
           <u>Happenings of the last few months</u>
           <span style="display: block; margin-bottom: 1em"></span>
-          <div class="dropdown">
-            <button class="dropdown-btn">News</button>
-            <div class="dropdown-content">
-              {% for news in site.data.news %}
-                <div class="news-item">
-                  <h4 class="news-title">{{ news.title }}</h4>
-                  <div class="news-details">
-                    {{ news.details | markdownify }}
-                  </div>
+          <div class="dropdown-content">
+            {% for news in site.data.news %}
+              <div class="news-item">
+                <h4 class="news-title">{{ news.title }}</h4>
+                <div class="news-details">
+                  {{ news.details | markdownify }}
                 </div>
-              {% endfor %}
-            </div>
+              </div>
+            {% endfor %}
           </div>
         </div>
       </div>
