@@ -65,6 +65,6 @@ permalink: /people/
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Zeyu Gao](https://scholar.google.com/citations?hl=en&user=CeP6dkcAAAAJ) | Ph.D student (2017-2024) | Postdoc at Cambridge |
-
+| [Titipat Achakulvisut](https://kordinglab.com/people/titipat_achakulvisut/.index.html) | Graduate Student (2014 - 2021) | [Biomedical and Data Lab](https://biodatlab.github.io/), Dept of Biomedical Engineering, Mahidol University, Thailand |
 {% endif %}
 {% endfor %}
