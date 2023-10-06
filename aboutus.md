@@ -31,3 +31,26 @@ Our research group is remarkably interdisciplinary. Our interests span statistic
 
 
 ### Collaborators
+
+
+### Recruitment
+
+We are dedicated to cultivating talent based on the principle of "people-oriented" development. Our group emphasizes both collective honor and individual creativity, seamlessly combining personal aspirations with team goals.
+
+We cordially invite talented individuals to join our group for academic exchanges and encourage outstanding students to pursue their studies with us.
+
+Research Opportunities:
+
+Graduate Students: We offer exciting research opportunities for graduate students who are passionate about biomedical research. By joining our group, you will have the chance to work on cutting-edge projects and contribute to the advancement of knowledge in the field.
+
+PhD Candidates: As a PhD candidate in our group, you will have the opportunity to engage in interdisciplinary research and collaborate with experts in the field. We provide a supportive and stimulating environment to foster your growth as a researcher.
+
+Postdoctoral Fellows: We welcome postdoctoral fellows who are eager to take their research to the next level. Join our group to conduct innovative research, publish high-impact papers, and develop your independent research profile.
+
+Research Scientists: We are seeking talented and motivated research scientists to join our team. As a research scientist, you will have the opportunity to lead and contribute to research projects, mentor junior researchers, and make significant contributions to the field of biomedical research.
+
+Location: Room 4-6030, Western Science and Technology Innovation Harbor
+- Contact Person: Prof. Chen Li; Email: [cli@xjtu.edu.cn](cli@xjtu.edu.cn)
+- Contact Person: Prof. Tieliang Gong; Email: [gongtl@xjtu.edu.cn](gongtl@xjtu.edu.cn)
+
+Please feel free to reach out to us for any inquiries or further information. We look forward to welcoming exceptional individuals to our research group and creating a vibrant and collaborative scientific community.
