@@ -98,6 +98,14 @@ layout: default
                   <h4 class="news-title">{{ news.title }}</h4>
                   <div class="news-details">
                     {{ news.details | markdownify }}
+
+                    {% if news.images %}
+                    <div class="news-images">
+                      {% for image in news.images %}
+                      <img src="{{ image }}" alt="News Image">
+                      {% endfor %}
+                    </div>
+                    {% endif %}
                   </div>
                 </div>
               </li>
@@ -117,7 +125,20 @@ layout: default
 
         .news-details.show {
           opacity: 1;
-          max-height: 1000px;
+          max-height: 100%;
+        }
+
+        .news-images {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          margin-top: 10px;
+        }
+
+        .news-images img {
+          width: 100%;
+          max-width: 400px;
+          margin: 5px;
         }
       </style>
 
@@ -131,7 +152,7 @@ layout: default
           });
         });
       </script>
-      
+
       <span style="display: block; margin-bottom: 3em"></span>
 
 <!--
