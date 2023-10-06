@@ -32,8 +32,6 @@ nav:
     href:           "/people"
   - name:           "blog"
     href:           "/blog"
-  - name:           "abstracts" # felipe added 230602
-    href:           "/abstracts"
   - name:           "resources"
     href:           "/resources"
 
