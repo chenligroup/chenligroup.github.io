@@ -3,16 +3,21 @@ title: Publication
 permalink: /publication/
 ---
 
-For those interested in numbers, see Konrad's [google scholar citations profile](https://scholar.google.com/citations?user=MiFqJGcAAAAJ).
+For those interested in numbers, see Chen Li's [google scholar citations profile](https://scholar.google.com/citations?hl=en&user=WFkE3QEAAAAJ) and Tieliang Gong's [google scholar citations profile](https://scholar.google.com/citations?user=yhsnUnMAAAAJ&hl=en).
 
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
 
 ### 2023
+_[Optimal Randomized Approximations for Matrix-based Rényi’s Entropy](https://ieeexplore.ieee.org/abstract/document/10077595/)_ <br>
+Yuxin Dong; Tieliang Gong; Shujian Yu; Chen Li <br>
+IEEE Transactions on Information Theory (2023)
+
+
 [_Dual Attention and Patient Similarity Network for Drug Recommendation_](https://academic.oup.com/bioinformatics/article/39/1/btad003/6972773) <br>
 Jialun Wu, Yuxin Dong, Zeyu Gao, Tieliang Gong, Chen Li <br>
-Bioinformatics 39.1 (2023): btad003
+Bioinformatics 39.1 (2023)
 
 
 ### 2022
