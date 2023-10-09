@@ -74,6 +74,13 @@ layout: default
       </div>
 
       <style>
+        .news-title {
+          transition: transform 0.3s ease-in-out;
+        }
+      
+        .news-title:hover {
+          transform: scale(1.1);
+        }
         .news-details {
           opacity: 0;
           max-height: 0;
@@ -100,13 +107,33 @@ layout: default
         }
       </style>
 
-      <script>
+      <!-- <script>
         const newsTitles = document.querySelectorAll('.news-title');
 
         newsTitles.forEach(title => {
           title.addEventListener('click', () => {
             const details = title.nextElementSibling;
             details.classList.toggle('show');
+          });
+        });
+      </script> -->
+      <script>
+        const newsItems = document.querySelectorAll('.news-item');
+      
+        newsItems.forEach(item => {
+          const title = item.querySelector('.news-title');
+          const details = item.querySelector('.news-details');
+      
+          title.addEventListener('click', () => {
+            details.classList.toggle('show');
+          });
+      
+          title.addEventListener('mouseenter', () => {
+            title.style.transform = 'scale(1.1)';
+          });
+      
+          title.addEventListener('mouseleave', () => {
+            title.style.transform = 'scale(1)';
           });
         });
       </script>
