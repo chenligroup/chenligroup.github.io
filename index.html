@@ -75,11 +75,11 @@ layout: default
 
       <style>
         .news-title {
-          transition: transform 0.3s ease-in-out;
+          transition: box-shadow 0.3s ease-in-out;
         }
       
         .news-title:hover {
-          transform: scale(1.1);
+          box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
         }
         .news-details {
           opacity: 0;
@@ -129,11 +129,11 @@ layout: default
           });
       
           title.addEventListener('mouseenter', () => {
-            title.style.transform = 'scale(1.1)';
+            title.style.boxShadow = '0px 0px 10px rgba(0, 0, 0, 0.3)';
           });
       
           title.addEventListener('mouseleave', () => {
-            title.style.transform = 'scale(1)';
+            title.style.boxShadow = 'none';
           });
         });
       </script>
