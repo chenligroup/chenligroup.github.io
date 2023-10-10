@@ -13,10 +13,10 @@ Research on the application of deep learning methods on clinical data, digital p
 #### Digital pathology image analysis
 Based on multi-modal clinical structured data, deep learning algorithms are used to establish clinical auxiliary decision-making models for common clinical prediction tasks. In addition, we consider complex clinical application scenarios, such as insufficient data, missing data, and missing modalities. We also focus on a series of issues related to algorithm implementation, including uncertainty estimation, interpretability and reliability. The team has published many papers in international conferences or journals such as KDD, ICDM, SDM, and Big Data Journal.
 
-#### Pathology semantic standardization research
+#### Pathology semantic standardization
 In modern clinical practice, digital pathology plays a crucial role. Unprecedented developments in the field of machine learning have enabled the synergy of artificial intelligence and digital pathology, offering image-based diagnostic possibilities. Integrate digital pathology slides into pathology workflow, design and develop computer vision algorithms and computer-aided diagnosis technology, broaden pathologists' vision beyond microscopic slides; utilize and integrate existing human medical knowledge to discover pathological phenotypes and human genotypes, discovering medical and life information beyond human cognition is our unremitting goal.
 
-#### Pathology semantic standardization research.
+#### Deep learning methods on clinical data
 The emergence of knowledge graph technology provides an efficient way to express, organize, manage and utilize massive, heterogeneous and dynamic big data, making the network more intelligent and closer to human cognitive thinking. It can provide strong support for downstream information retrieval, question answering, and recommendation system tasks. This research team takes building a large-scale knowledge graph as its core task, which specifically involves four directions: information extraction, anaphora resolution, sentiment analysis, and intelligent question and answer, aiming to actively explore efficient methods for acquiring and applying valuable human knowledge.
 
 #### Application research of deep learning methods on clinical data

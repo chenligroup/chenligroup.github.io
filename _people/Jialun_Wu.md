@@ -5,7 +5,7 @@ avatar: Jialun_Wu.jpg
 joined: 2019
 ---
 
-<img width="150" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 **Contact**
 
