@@ -1,6 +1,6 @@
 ---
 name: Tieliang Gong
-position: ap
+position: prof
 avatar: Tieliang_Gong.jpg
 ---
 

@@ -5,7 +5,7 @@ avatar: Zeyu_Gao.jpg
 joined: 2017
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="150" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 **Contact**
 

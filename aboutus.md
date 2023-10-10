@@ -27,12 +27,6 @@ Although image processing methods can effectively help doctors read pathological
 
 Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://chenli.group/people/) to see more information on each person who works in the lab (publications, contact information, photos).
 
-### Lab Culture
-
-
-### Collaborators
-
-
 ### Recruitment
 
 We are dedicated to cultivating talent based on the principle of "people-oriented" development. Our group emphasizes both collective honor and individual creativity, seamlessly combining personal aspirations with team goals.
