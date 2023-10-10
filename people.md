@@ -42,7 +42,7 @@ permalink: /people/
 {% if role != 'alumni' %}
 <div class="content list people">
   {% for profile in people_sorted %}
-    <!-- {% if profile.position contains role %}
+    {% if profile.position contains role %}
       <div class="list-item-people">
         <p class="list-post-title">
           {% if profile.avatar %}
@@ -53,24 +53,6 @@ permalink: /people/
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
         </p>
       </div>    
-    {% endif %} -->
-    {% if profile.avatar %}
-      {% if profile.position contains 'prof' %}
-        {% assign thumbnail_size = "200px" %}
-      {% elsif profile.position contains 'postdoc' %}
-        {% assign thumbnail_size = "150px" %}
-      {% elsif profile.position contains 'phd' %}
-        {% assign thumbnail_size = "120px" %}
-      {% else %}
-        {% assign thumbnail_size = "100px" %}
-      {% endif %}
-      <a href="{{ site.baseurl }}{{ profile.url }}" style="display: block; width: {{ thumbnail_size }}; height: {{ thumbnail_size }}; overflow: hidden;">
-        <div class="profile-thumbnail" style="background-image: url('{{site.baseurl}}/images/people/{{profile.avatar}}'); background-size: cover; background-position: center;"></div>
-      </a>
-    {% else %}
-      <a href="{{ site.baseurl }}{{ profile.url }}" style="display: block; width: 100px; height: 100px;">
-        <div class="profile-thumbnail" style="background-image: url('http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg'); background-size: cover; background-position: center;"></div>
-      </a>
     {% endif %}
   {% endfor %}
 </div>
