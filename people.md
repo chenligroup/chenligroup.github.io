@@ -42,7 +42,7 @@ permalink: /people/
 {% if role != 'alumni' %}
 <div class="content list people">
   {% for profile in people_sorted %}
-    <!-- {% if profile.position contains role %}
+    {% if profile.position contains role %}
       <div class="list-item-people">
         <p class="list-post-title">
           {% if profile.avatar %}
@@ -53,21 +53,7 @@ permalink: /people/
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
         </p>
       </div>    
-    {% endif %} -->
-    {% if profile.avatar %}
-      {% if profile.position contains 'prof' %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}" style="width: auto; height: 200px;"></a>
-      {% elsif profile.position contains 'postdoc' %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}" style="width: auto; height: 150px;"></a>
-      {% elsif profile.position contains 'phd' %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}" style="width: auto; height: 120px;"></a>
-      {% else %}
-        <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}" style="width: auto; height: 100px;"></a>
-      {% endif %}
-      {% else %}
-      <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg" style="width: 100px; height: auto;"></a>
     {% endif %}
-  {% endfor %}
 </div>
 <hr>
 
