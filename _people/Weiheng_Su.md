@@ -1,6 +1,6 @@
 ---
 name: Weiheng_Su
-position: grad
+position: grad # prof|ap|postdoc|phd|grad|alumni
 avatar: Weiheng_Su.png
 joined: 2022
 ---
@@ -12,7 +12,7 @@ joined: 2022
 <i class="fa fa-envelope-o"></i> `xxxxxxxx@xxxxxxxx`<br>
 <i class="fa fa-mobile"></i> xxxxxxxxxxx
 
-<!--[<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=bZOcwEYAAAAJ&hl=en)-->
+<!--[<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=bZOcwEYAAAAJ&hl=en)
 
 ### Bio
 
