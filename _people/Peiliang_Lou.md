@@ -56,6 +56,7 @@ Python, Java, Machine learning, PyTorch, Protégé (a wide-adopted tool for cons
 - [Zhao, G., **Lou, P.**, Qian, X., & Hou, X. (2020). Personalized location recommendation by fusing sentimental and spatial context. _Knowledge-Based Systems, 196, 105849._](https://www.sciencedirect.com/science/article/pii/S0950705120302161)
 - [**Lou, P.**, Dong, Y., Jimeno Yepes, A., & Li, C. (2021). A representation model for biological entities by fusing structured axioms with unstructured texts. _Bioinformatics, 37(8), 1156-1163._](https://academic.oup.com/bioinformatics/article-abstract/37/8/1156/5941463)
 - [**Lou, P.**, Zhao, G., Qian, X., Wang, H., & Hou, X. (2016, April). Schedule a rich sentimental travel via sentimental POI mining and recommendation. _In 2016 IEEE second international conference on multimedia big data (BigMM) (pp. 33-40). IEEE._](https://ieeexplore.ieee.org/abstract/document/7544993/)
+
 #### Under Revision:
 - **Lou, P.**, Wang, C., Guo, R., Yao, L., Li, C. The pathology markup language (PathoML): a standardized representation of computationally utilizing pathological features. Under revision in _Nature Scientific data._
 
