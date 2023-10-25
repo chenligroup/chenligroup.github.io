@@ -42,7 +42,7 @@ Python, Java, Machine learning, PyTorch, Protégé (a wide-adopted tool for cons
     - Collaborated with a team of pathologists to analyze the intrinsic meaning of pathology knowledge in terms of pathological entities, phenotypes and differential diagnosis
     - Developed three directed heterogeneous graphs to represent pathology knowledge in a structured form.
     - Experimentally validated the graph representations on three use cases including quantitative analysis of pathological features, deep phenotyping and automatic pathological diagnosis.
-- 2016-2017	 **Intel | Software Guard Extensions Infrastructure Team, Shanghai, China**
+- 2016-2017	 **Intel Software Guard Extensions Infrastructure Team, Shanghai, China**
     - Constructed and maintained the test environment for SGX product code, implementing automated testing frameworks for efficiency.
 - 2014-2017	**Undergraduate Research [Prof. Guoshuai Zhao](http://guoshuaizhao.com/)**
     - Developed a recommendation method of Place-Of-Interest (POI) based on sentiment analysis of Sina Weibo social media data.
