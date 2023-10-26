@@ -284,7 +284,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .container {
-  max-width: 100%;
+  max-width: 40rem;
 //  padding: 2rem 1.5rem;
   margin-left:  auto;
   margin-right: auto;
@@ -525,7 +525,7 @@ tbody tr:nth-child(odd) th {
 }
 
 // fix menu bar spacing for mobile
-@media(max-width: 100%){
+@media(max-width: 40em){
   .navbar-nav>li>a {
     padding: 0.75em 0 0.5em 2.5em;
     font-size: 15px;
