@@ -1,6 +1,6 @@
 ---
-title: About us
-permalink: /aboutus/
+title: Research
+permalink: /research/
 ---
 
 ### About us
