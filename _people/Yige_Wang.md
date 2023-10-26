@@ -12,11 +12,6 @@ joined: 2021
 <i class="fa fa-envelope-o"></i> `jihejue039@stu.xjtu.edu.cn`<br>
 <!-- <i class="fa fa-mobile"></i> xxxxxxxxxxx -->
 [<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=n_q77hsAAAAJ&hl=en&oi=sra)
-<!-- ### Bio
-
-xxxxxxxx
-
-<hr> -->
 
 ### Research Interests
 
