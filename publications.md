@@ -231,37 +231,37 @@ Zhijing Li, Yangyang Lan, Saikat Chatterjee, Pargorn Puttapirat, Xiangrong Zhang
 Zhijing Li, Chen Li, Yu Long, Xuan Wang<br>
 BMC Medical Informatics and Decision Making<br>
 
-[__]() <br>
-<br>
-<br>
+[_Bio-semantic relation extraction with attention-based external knowledge reinforcement_](https://link.springer.com/article/10.1186/s12859-020-3540-8) <br>
+Zhijing Li, Yuchen Lian, Xiaoyong Ma, Xiangrong Zhang, Chen Li<br>
+BMC bioinformatics<br>
 
-[__]() <br>
-<br>
-<br>
+[_GRS-Det: An anchor-free rotation ship detector based on Gaussian-mask in remote sensing images_](https://ieeexplore.ieee.org/abstract/document/9186810/) <br>
+Xiangrong Zhang, Guanchun Wang, Peng Zhu, Tianyang Zhang, Chen Li, Licheng Jiao<br>
+IEEE Transactions on Geoscience and Remote Sensing<br>
 
-[__]() <br>
-<br>
-<br>
+[_Scene attention mechanism for remote sensing image caption generation_](https://ieeexplore.ieee.org/abstract/document/9207381/) <br>
+Shiqi Wu, Xiangrong Zhang, Xin Wang, Chen Li, Licheng Jiao<br>
+2020 International Joint Conference on Neural Networks (IJCNN)<br>
 
-[__]() <br>
-<br>
-<br>
+[_Discriminative feature pyramid network for object detection in remote sensing images_](https://ieeexplore.ieee.org/abstract/document/9207217/) <br>
+Xiaoqian Zhu, Xiangrong Zhang, Tianyang Zhang, Peng Zhu, Xu Tang, Chen Li<br>
+2020 International Joint Conference on Neural Networks (IJCNN)<br>
 
-[__]() <br>
-<br>
-<br>
+[_Stacked residual recurrent neural networks with cross-layer attention for text classification_](https://ieeexplore.ieee.org/abstract/document/9063530/) <br>
+Yangyang Lan, Yazhou Hao, Kui Xia, Buyue Qian, Chen Li<br>
+IEEE Access<br>
 
-[__]() <br>
-<br>
-<br>
+[_BioNorm: deep learning-based event normalization for the curation of reaction databases_](https://academic.oup.com/bioinformatics/article-abstract/36/2/611/5539693) <br>
+Peiliang Lou, Antonio Jimeno Yepes, Zai Zhang, Qinghua Zheng, Xiangrong Zhang, Chen Li<br>
+Bioinformatics<br>
 
-[__]() <br>
-<br>
-<br>
+[_Renal cell carcinoma detection and subtyping with minimal point-based annotation in whole-slide images_](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_42) <br>
+Zeyu Gao, Pargorn Puttapirat, Jiangbo Shi, Chen Li<br>
+Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd International Conference, Lima, Peru, October 4–8, 2020, Proceedings, Part V 23<br>
 
-[__]() <br>
-<br>
-<br>
+[_Libmi: An open source library for efficient histopathological image processing_](https://www.sciencedirect.com/science/article/pii/S2153353922002553) <br>
+Yuxin Dong, Pargorn Puttapirat, Jingyi Deng, Xiangrong Zhang, Chen Li<br>
+Journal of Pathology Informatics<br>
 
 [__]() <br>
 <br>
