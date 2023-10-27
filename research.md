@@ -5,29 +5,30 @@ permalink: /research/
 
 ## Our Research Areas
 We focuses on the following research areas:
-### Clinical structured data analysis
-- Utilizing deep learning algorithms to build clinical decision support models for common clinical prediction tasks based on multimodal clinical structured data
-- Addressing complex clinical application scenarios, including limited data, data missingness, and pattern incompleteness
-- Investigating algorithm implementation-related issues such as uncertainty estimation, interpretability, and reliability
-- Published multiple papers on this topic in international conferences or journals such as KDD, ICDM, SDM, and Big Data Journal
-### Digital pathology image analysis
-- Designing and developing computer vision algorithms and computer-aided diagnosis techniques for integrating digital pathology slides into the pathology workflow
-- Expanding pathologists' perspectives beyond microscopic slides
-- Utilizing and integrating existing human medical knowledge to discover pathological phenotypes and human genotypes
-- Uncovering medical and life information that transcends human cognition
+1. Clinical structured data analysis
+    - Utilizing deep learning algorithms to build clinical decision support models for common clinical prediction tasks based on multimodal clinical structured data
+    - Addressing complex clinical application scenarios, including limited data, data missingness, and pattern incompleteness
+    - Investigating algorithm implementation-related issues such as uncertainty estimation, interpretability, and reliability
+    - Published multiple papers on this topic in international conferences or journals such as KDD, ICDM, SDM, and Big Data Journal
 
-### Pathology semantic standardization
-- Constructing large-scale knowledge graphs as the core task
-- Researching information extraction, coreference resolution, sentiment analysis, and intelligent question answering etc.
-- Actively exploring effective methods for acquiring and applying valuable human knowledge
-- Providing strong support for downstream tasks such as information retrieval, question answering, and recommendation systems
+2. Digital pathology image analysis
+    - Designing and developing computer vision algorithms and computer-aided diagnosis techniques for integrating digital pathology slides into the pathology workflow
+    - Expanding pathologists' perspectives beyond microscopic slides
+    - Utilizing and integrating existing human medical knowledge to discover pathological phenotypes and human genotypes
+    - Uncovering medical and life information that transcends human cognition
 
-### Deep learning methods on clinical data
-- Image processing methods alone are insufficient for comprehensive pathology analysis and diagnosis
-- Expanding beyond pixel-level analysis to incorporate pathological knowledge and inference-drawing capabilities
-- Building a pathological semantic system for a unified representation of pathological knowledge
-- Enabling computers to perceive and analyze the underlying knowledge behind pathology data
-- Uncovering hidden, immutable laws through computational analysis   
+3. Pathology semantic standardization
+    - Constructing large-scale knowledge graphs as the core task
+    - Researching information extraction, coreference resolution, sentiment analysis, and intelligent question answering etc.
+    - Actively exploring effective methods for acquiring and applying valuable human knowledge
+    - Providing strong support for downstream tasks such as information retrieval, question answering, and recommendation systems
+
+4. Deep learning methods on clinical data
+    - Image processing methods alone are insufficient for comprehensive pathology analysis and diagnosis
+    - Expanding beyond pixel-level analysis to incorporate pathological knowledge and inference-drawing capabilities
+    - Building a pathological semantic system for a unified representation of pathological knowledge
+    - Enabling computers to perceive and analyze the underlying knowledge behind pathology data
+    - Uncovering hidden, immutable laws through computational analysis   
 
 ## We are doing
 1. Development of natural language processing and bioinformatics-based text mining AI algorithms
