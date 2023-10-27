@@ -11,8 +11,27 @@ avatar: Tieliang_Gong.jpg
 <!--<i class="fa fa-envelope-o"></i> `cli@xjtu.edu.cn`-->
 <a href="cli@xjtu.edu.cn"><i class="fa fa-envelope-o"></i> cli@xjtu.edu.cn</a>
 [<i class="fa fa-google"></i> Personally homepage](https://gong-tl.github.io/)
-**Office**<br>
-404B Richards, 3700 Hamilton Walk <br>
-Philadelphia, PA 19104
 
-Ph.D., Assistant Professor, School of Computer Science, Xi'an Jiaotong University. Visited at the Center for Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, from October 2016 to October 2017, and conducted postdoctoral research at the School of Mathematics and Statistics, University of Ottawa, from October 2018 to September 2020. Research directions include statistical learning theory, robust statistical inference, stochastic linear algebra, machine learning and related applications. Research results are mainly published in top international conferences and journals such as NeurIPS, AAAI, IEEE Trans on Neural Networks, IEEE Trans on Cybernectics, IEEE Trans on Medical Imaging, Medical Image Analysis, Neural Computation, Natural Scientific Data, etc. His research results on information theory won the "Spark Award" of Huawei's unveiling project. Currently serving as a reviewer for multiple international conferences such as: ICML/NeurIPS/AAAI/IJCAI and international journals. As the person in charge, he presides over the sub-topics of the National Natural Science Foundation of China Youth Fund and the Ministry of Science and Technology’s 2030 New Generation Artificial Intelligence Major Project, and participates as a backbone There are many key and general projects of the National Natural Science Foundation of China.
+## Education and Work Experience:
+
+- Ph.D., Assistant Professor, School of Computer Science, Xi'an Jiaotong University
+- Visited the Center for Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, from October 2016 to October 2017
+- Conducted postdoctoral research at the School of Mathematics and Statistics, University of Ottawa, from October 2018 to September 2020
+
+## Research Directions:
+
+- Statistical learning theory
+- Robust statistical inference
+- Stochastic linear algebra
+- Machine learning and related applications
+
+## Research Achievements:
+
+- Published research results in top international conferences and journals, including NeurIPS, AAAI, IEEE Trans on Neural Networks, IEEE Trans on Cybernetics, IEEE Trans on Medical Imaging, Medical Image Analysis, Neural Computation, Natural Scientific Data, etc.
+- Received the "Spark Award" for research on information theory in Huawei's unveiling project
+
+## Reviewer and Project Involvement:
+
+- Currently serving as a reviewer for multiple international conferences such as ICML, NeurIPS, AAAI, and IJCAI, as well as international journals
+- In charge of sub-topics for the National Natural Science Foundation of China Youth Fund and the Ministry of Science and Technology's 2030 New Generation Artificial Intelligence Major Project
+- Participation as a key member in various key and general projects of the National Natural Science Foundation of China
