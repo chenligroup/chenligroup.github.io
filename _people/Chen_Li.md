@@ -1,6 +1,6 @@
 ---
-name: Chen Li
-position: prof
+name: Prof. Chen Li
+position: fac
 avatar: Chen_Li.jpg
 ---
 
@@ -14,4 +14,30 @@ avatar: Chen_Li.jpg
 
 
 
-Ph.D from the University of Cambridge (UK), Postdoctoral Fellowship from MIT (USA), Overseas Fellowship from the University of Cambridge, and Fellowship from European Molecular Biology Laboratory (EMBL). He is currently working in the Department of Computer Science and Technology, School of Telecommunication, Xi'an Jiaotong University, as a professor and doctoral supervisor. He has been engaged in biomedical text mining research and development at the European Bioinformatics Institute (EMBL-EBI), the largest bioinformatics institute in the world, for a long time. The BioModels data standard system, which he developed, has been recognized as the most important resource in the field of systems biology, and has been interviewed by Nature. The system has received widespread attention and support since its launch. To date, more than 200 journals from several top international academic publishers have supported BioModels and recommended contributors to deposit their data on the platform.BioModels was analyzed by the European Union as a success story in the European Bioinformatics Architecture Initiative (ISBE) program book.In 2016, the team led by the team won the international competition for biological text mining, BioNLP. BioNLP, achieving the first place in the SeeDev task. A number of innovations have been achieved in the field of biological text mining, and the results obtained have reached the international leading level. The results have been published in internationally recognized journals and top conferences. These papers have been heavily cited by international peers. Based on his contributions in the related fields, he has been invited to serve as a reviewer and program reviewer for several international journals and conferences: a program reviewer for BBSRC, the largest scientific research fund in the field of biosciences in the UK, and a member of the organizing committee of EMNLP and NAACL, the top international conferences on natural language processing. He also serves as a reviewer for the international journals Bioinformatics and Journal of Biomedical Semantics in the field of bioinformatics, and as a reviewer for the top international conferences in the field of natural language processing, ACL, and RANLP.
+##  Education:
+- Ph.D. from the University of Cambridge (UK)
+- Postdoctoral Fellowship from MIT (USA)
+
+## Work Experience:
+- Currently working as a professor and doctoral supervisor at the Department of Computer Science and Technology, School of Telecommunication, Xi'an Jiaotong University
+- Engaged in biomedical text mining research and development at the European Bioinformatics Institute (EMBL-EBI), the world's largest bioinformatics institute
+
+## Notable Achievements:
+
+- Developed the BioModels data standard system, recognized as a crucial resource in the field of systems biology
+- Interviewed by Nature for the significant impact of the BioModels system
+- BioModels has received widespread attention and support from over 200 journals, with international academic publishers recommending contributors to deposit their data on the platform
+- Analyzed by the European Union as a success story in the European Bioinformatics Architecture Initiative (ISBE) program book
+- Led the winning team in the international competition for biological text mining, BioNLP, achieving first place in the SeeDev task in 2016
+- Overseas Fellowship from the University of Cambridge
+
+## Research Contributions:
+- Published innovative research in the field of biological text mining in internationally recognized journals and top conferences
+- Papers have been heavily cited by international peers
+
+## Reviewer and Program Reviewer:
+- Invited to serve as a reviewer and program reviewer for several international journals and conferences
+- Program reviewer for BBSRC, the largest scientific research fund in the field of biosciences in the UK
+- Member of the organizing committee of EMNLP and NAACL, top international conferences on natural language processing
+- Reviewer for international journals Bioinformatics and Journal of Biomedical Semantics in the field of bioinformatics
+- Reviewer for top international conferences in the field of natural language processing, such as ACL and RANLP
