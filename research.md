@@ -55,8 +55,9 @@ Our papers have been cited thousands of times on Google Scholar.
 |2016|SeeDev task of the BioNLP data mining competition|First position|
 |2022|世界人工智能大会|Sail Award(Top award)|
 |2023.7.14|第六届智慧医疗创新大赛陕西赛区|First Prize|
-|2023.9.22|第六届智慧医疗创新大赛全国总决赛|National Third Prize|
 |2023.7.25|中国发明协会创业奖创新奖|Second Prize|
+|2023.9.22|第六届智慧医疗创新大赛全国总决赛|National Third Prize|
+
 ### Research Projects
 - We has undertaken several **national and provincial-level research projects** and achieved significant research outcomes. 
 - We have applied for **over 50** invention patents and software copyrights. 
