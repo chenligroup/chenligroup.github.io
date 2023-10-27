@@ -19,6 +19,7 @@ Our laboratory focuses on the following research areas:
 
 ## Our Academic Achievements
 Our team has published numerous papers in top conferences and journals, including but not limited to:
+
 <table>
 <thead>
   <tr>
@@ -47,8 +48,8 @@ Our team has published numerous papers in top conferences and journals, includin
     <td><a href="http://ieeebibm.org/">IEEE BIBM</td>
   </tr>
   <tr>
-    <td colspan="5">......</td>
-    <td colspan="5">......</td>
+    <td colspan="5"  align="center">......</td>
+    <td colspan="5"  align="center">......</td>
   </tr>
 </tbody>
 </table>
