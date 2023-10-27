@@ -21,13 +21,10 @@ Our laboratory focuses on the following research areas:
 Our team has published numerous papers in top conferences and journals, including but not limited to:
 
 <table>
-<thead>
   <tr>
     <th colspan="5">Conference</th>
     <th colspan="5">Journal</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td><a href="https://www.aclweb.org/portal/">ACL</td>
     <td><a href="https://aaai.org/">AAAI</td>
@@ -51,8 +48,8 @@ Our team has published numerous papers in top conferences and journals, includin
     <td colspan="5"  align="center">......</td>
     <td colspan="5"  align="center">......</td>
   </tr>
-</tbody>
 </table>
+
 Our papers have been cited thousands of times on Google Scholar.
 
 ## Competition Achievements
