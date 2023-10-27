@@ -56,9 +56,9 @@ Our team has published numerous papers in top conferences and journals, includin
 Our papers have been cited thousands of times on Google Scholar.
 
 ## Competition Achievements
-- SeeDev task of the BioNLP data mining competition, 2016
-
-SeeDev 2016, In 2016, our team secured the first position in the , competing against top international research institutions including the University of Cambridge.
+|When|Competition Name|Prize|
+|----|----|----|
+|2016|SeeDev task of the BioNLP data mining competition|First position|
 
 
 #### Digital pathology image analysis
