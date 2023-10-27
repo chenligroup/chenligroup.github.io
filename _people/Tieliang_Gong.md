@@ -9,21 +9,20 @@ avatar: Tieliang_Gong.jpg
 - _School of Computer Science and Technology Assistant Professor, Xi'an Jiaotong University._ <br>
 
 <!--<i class="fa fa-envelope-o"></i> `cli@xjtu.edu.cn`-->
-<a href="cli@xjtu.edu.cn"><i class="fa fa-envelope-o"></i> cli@xjtu.edu.cn</a>
+<a href="gongtl@xjtu.edu.cn"><i class="fa fa-envelope-o"></i> gongtl@xjtu.edu.cn</a>
 [<i class="fa fa-home"></i> Personally homepage](https://gong-tl.github.io/)
 
 ## Education and Work Experience:
 
 - Ph.D., Assistant Professor, School of Computer Science, Xi'an Jiaotong University
-- Visited the Center for Computational Medicine and Bioinformatics, University of Michigan, Ann Arbor, from October 2016 to October 2017
-- Conducted postdoctoral research at the School of Mathematics and Statistics, University of Ottawa, from October 2018 to September 2020
+- Visiting scholar, University of Michigan, 2017
+- Postdoctoral,  University of Ottawa, 2020
 
 ## Research Directions:
 
-- Statistical learning theory
-- Robust statistical inference
-- Stochastic linear algebra
-- Machine learning and related applications
+- Statistical Learning Theory
+- Information theory
+- Machine Learning
 
 ## Research Achievements:
 
