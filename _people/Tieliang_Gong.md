@@ -10,7 +10,7 @@ avatar: Tieliang_Gong.jpg
 
 <!--<i class="fa fa-envelope-o"></i> `cli@xjtu.edu.cn`-->
 <a href="cli@xjtu.edu.cn"><i class="fa fa-envelope-o"></i> cli@xjtu.edu.cn</a>
-[<i class="fa-solid fa-house"></i> Personally homepage](https://gong-tl.github.io/)
+[<i class="fa fa-house"></i> Personally homepage](https://gong-tl.github.io/)
 
 ## Education and Work Experience:
 
