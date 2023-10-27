@@ -72,20 +72,76 @@ IEEE Transactions on Medical Imaging
 
 ### 2022
 
+[_Uncertainty-guided Mutual Consistency Training for Semi-supervised Biomedical Relation Extraction_](https://ieeexplore.ieee.org/abstract/document/9995416/) <br>
+B Mao, C Jia, Y Huang, K He, J Wu, T Gong, C Li <br>
+2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+<br>
+
+[_Knowledge Enhanced Coreference Resolution via Gated Attention_](https://ieeexplore.ieee.org/abstract/document/9995551/) <br>
+Kai He, Bing Mao, Xiangyu Zhou, Yufei Li, Tieliang Gong, Chen Li, Jialun Wu <br>
+2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_JCBIE: a joint continual learning neural network for biomedical information extraction_](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05096-w) <br>
+Kai He, Rui Mao, Tieliang Gong, Erik Cambria, Chen Li<br>
+BMC bioinformatics<br>
+
 [__]() <br>
+<br>
 <br>
 
 [__]() <br>
 <br>
-
-[__]() <br>
 <br>
 
 [__]() <br>
 <br>
+<br>
 
 [__]() <br>
 <br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+
+
+### 2020
+
+
+### 2019
+
+
+
+### 2018
+
+### 2017
+
 
 
 
