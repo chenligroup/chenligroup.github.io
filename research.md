@@ -50,6 +50,14 @@ Our team has published numerous papers in top conferences and journals, includin
   </tr>
 </table>
 
+| 姓名 | 年龄 | 地址         |
+|------|------|--------------|
+| 张三 | 25   | 北京市       |
+| 李四 | 30   | 上海市       |
+| 王五 | 28   | 广州市       |
+| 合并列     || 合并行和列   |
+|      |      | 南京市       |
+
 Our papers have been cited thousands of times on Google Scholar.
 
 ## Competition Achievements
