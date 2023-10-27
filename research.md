@@ -49,16 +49,14 @@ Our team has published numerous papers in top conferences and journals, includin
 Our papers have been cited thousands of times on Google Scholar.
 
 ## Competition Achievements
+
 |When|Competition Name|Prize|
 |----|----|----|
 |2016|SeeDev task of the BioNLP data mining competition|First position|
-|2022|World Artificial Intelligence Conference|Sail Award(Top award)|
-|2023.7.14|Smart Health Innovation Competition|First Prize of Shaanxi Province|
-|2023.9.22|Smart Health Innovation Competition|National Third Prize|
-|2023.7.25|Invention Entrepreneurship and Innovation Award|Second Prize|
-||||
-||||
-
+|2022|世界人工智能大会|Sail Award(Top award)|
+|2023.7.14|第六届智慧医疗创新大赛陕西赛区|First Prize|
+|2023.9.22|第六届智慧医疗创新大赛全国总决赛|National Third Prize|
+|2023.7.25|中国发明协会创业奖创新奖|Second Prize|
 ### Research Projects
 - We has undertaken several **national and provincial-level research projects** and achieved significant research outcomes. 
 - We have applied for **over 50** invention patents and software copyrights. 
