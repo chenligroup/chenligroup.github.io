@@ -205,32 +205,91 @@ Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th I
 Zeyu Gao, Bangyang Hong, Xianli Zhang, Yang Li, Chang Jia, Jialun Wu, Chunbao Wang, Deyu Meng, Chen Li<br>
 Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part VIII 24<br>
 
-[__]() <br>
-<br>
-<br>
+[_AEFNet: Adaptive Scale Feature Based on Elastic-and-Funnel Neural Network for Healthcare Representation_](https://ieeexplore.ieee.org/abstract/document/9669339/) <br>
+Yang Liu, Jialun Wu, Yuhua Wei, Bing Mao, Chen Li, Tieliang Gong<br>
+2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
 
-[__]() <br>
-<br>
-<br>
+[_W-Net: A Two-Stage Convolutional Network for Nucleus Detection in Histopathology Image_](https://ieeexplore.ieee.org/abstract/document/9669344/) <br>
+Anyu Mao, Jialun Wu, Xinrui Bao, Zeyu Gao, Tieliang Gong, Chen Li<br>
+2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
 
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
+[_Learning performance of LapSVM based on Markov subsampling_](https://www.sciencedirect.com/science/article/pii/S0925231220318956) <br>
+Tieliang Gong, Hong Chen, Chen Xu<br>
+Neurocomputing<br>
 
 ### 2020
+
+[_Structured information extraction of pathology reports with attention-based graph convolutional network_](https://ieeexplore.ieee.org/abstract/document/9313347/) <br>
+Jialun Wu, Kaiwen Tang, Haichuan Zhang, Chunbao Wang, Chen Li<br>
+2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_Dual sentence representation model integrating prior knowledge for bio-text-mining_](https://ieeexplore.ieee.org/abstract/document/9313239/) <br>
+Zhijing Li, Yangyang Lan, Saikat Chatterjee, Pargorn Puttapirat, Xiangrong Zhang, Chen Li<br>
+2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_A system for automatically extracting clinical events with temporal information_](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01208-9) <br>
+Zhijing Li, Chen Li, Yu Long, Xuan Wang<br>
+BMC Medical Informatics and Decision Making<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
 
 
 ### 2019
