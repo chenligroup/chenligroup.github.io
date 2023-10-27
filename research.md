@@ -22,8 +22,8 @@ Our team has published numerous papers in top conferences and journals, includin
 
 <table>
   <tr>
-    <th colspan="5">Conference</th>
-    <th colspan="5">Journal</th>
+    <td colspan="5">Conference</td>
+    <td colspan="5">Journal</td>
   </tr>
   <tr>
     <td><a href="https://www.aclweb.org/portal/">ACL</td>
