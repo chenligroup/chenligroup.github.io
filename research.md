@@ -3,10 +3,59 @@ title: Research
 permalink: /research/
 ---
 
-<!-- ### About us
-The biomedical research group focuses on developing artificial intelligence algorithms based on natural language processing and bioinformatics for text mining. Committed to building unstructured, massive biomedical and clinical data into a structured biomedical knowledge graph. At the same time, it is committed to research in the field of medical big data, using large-scale data mining and machine learning algorithms to conduct in-depth analysis of medical data, and using artificial intelligence technology to assist doctors in the diagnosis and treatment process. -->
+## Our Research Areas
+Our laboratory focuses on the following research areas:
 
-Research on the application of deep learning methods on clinical data, digital pathology image analysis, clinical structured data analysis and pathology semantic standardization. The entire team has published three papers in top conferences and journals such as ACL, AAAI, SIGKDD, NeuralPS, ACM CIKM, MICCAI, IEEE TMI, IEEE TKDE, MedIA, Bioinformatics, JBHI, IEEE BIBM, IEEE ICDM, SDM, ISBI, JMIR, Scientific Data, etc. More than ten articles. Cited thousands of times on Google. In 2016, the team won first place in the SeeDev task in the BioNLP data mining competition participated by top international research institutions such as the University of Cambridge. The team has undertaken a number of major national, provincial and ministerial level scientific research tasks and achieved representative scientific research results. It has applied for more than 50 invention patents and software works. The team's project results are used in major projects such as the National Health Commission and the National Medical Informatization Process Survey, as well as in daily diagnosis and scientific research in multi-level medical institutions. Among them, the BioModels biological pathway knowledge map and system has been rated as the most important resource in the field of systems biology, and has been included in the development of the European Bioinformatics Architecture Initiative (ISBE) by the European Union as a successful case.
+1. Clinical structured data analysis
+2. Digital pathology image analysis
+3. Pathology semantic standardization
+4. Deep learning methods on clinical data
+
+## We Focus On 
+1. Development of natural language processing and bioinformatics-based text mining AI algorithms
+2. Construction of structured biomedical knowledge graphs from unstructured biomedical and clinical data
+3. Research in the field of healthcare big data, utilizing large-scale data mining and machine learning algorithms for in-depth analysis
+4. Application of artificial intelligence techniques to assist doctors in diagnosis and treatment processes
+
+## Our Academic Achievements
+Our team has published numerous papers in top conferences and journals, including but not limited to:
+<table>
+<thead>
+  <tr>
+    <th colspan="5">Conference</th>
+    <th colspan="5">Journal</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://www.aclweb.org/portal/">ACL</td>
+    <td><a href="https://aaai.org/">AAAI</td>
+    <td><a href="https://www.kdd.org/">SIGKDD</td>
+    <td><a href="https://neurips.cc/">NeuralPS</td>
+    <td><a href="https://dl.acm.org/conference/cikm">ACM CIKM</td>
+    <td rowspan="2"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE TMI</td>
+    <td rowspan="2"><a href="https://www.jmir.org/">JMIR</td>
+    <td rowspan="2"><a href="https://academic.oup.com/bioinformatics/">Bioinformatics</td>
+    <td rowspan="2"><a href="https://www.sciencedirect.com/journal/medical-image-analysis">MediA</td>
+    <td rowspan="2"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">JBHI</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.miccai.org/">MICCAI</td>
+    <td><a href="https://ieeexplore.ieee.org/xpl/conhome/1000179/all-proceedings">IEEE ICDM</td>
+    <td><a href="https://www.siam.org/conferences/cm/conference/sdm24">SDM</td>
+    <td><a href="https://ieeexplore.ieee.org/xpl/conhome/1000080/all-proceedings">ISBI</td>
+    <td><a href="http://ieeebibm.org/">IEEE BIBM</td>
+  </tr>
+  <tr>
+    <td colspan="5">......</td>
+    <td colspan="5">......</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
 
 #### Digital pathology image analysis
 Based on multi-modal clinical structured data, deep learning algorithms are used to establish clinical auxiliary decision-making models for common clinical prediction tasks. In addition, we consider complex clinical application scenarios, such as insufficient data, missing data, and missing modalities. We also focus on a series of issues related to algorithm implementation, including uncertainty estimation, interpretability and reliability. The team has published many papers in international conferences or journals such as KDD, ICDM, SDM, and Big Data Journal.
