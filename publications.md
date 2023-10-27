@@ -73,7 +73,7 @@ IEEE Transactions on Medical Imaging
 ### 2022
 
 [_Uncertainty-guided Mutual Consistency Training for Semi-supervised Biomedical Relation Extraction_](https://ieeexplore.ieee.org/abstract/document/9995416/) <br>
-B Mao, C Jia, Y Huang, K He, J Wu, T Gong, C Li <br>
+Bing Mao, Chang Jia, Yucheng Huang, Kai He, Jialun Wu, Tieliang Gong, Chen Li<br>
 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
 <br>
 
@@ -85,9 +85,68 @@ Kai He, Bing Mao, Xiangyu Zhou, Yufei Li, Tieliang Gong, Chen Li, Jialun Wu <br>
 Kai He, Rui Mao, Tieliang Gong, Erik Cambria, Chen Li<br>
 BMC bioinformatics<br>
 
-[__]() <br>
-<br>
-<br>
+[_Semi-supervised pixel contrastive learning framework for tissue segmentation in histopathological image_](https://ieeexplore.ieee.org/abstract/document/9926096/) <br>
+Jiangbo Shi, Tieliang Gong, Chunbao Wang, Chen Li<br>
+IEEE Journal of Biomedical and Health Informatics<br>
+
+[_Leveraging multiple types of domain knowledge for safe and effective drug recommendation_](https://dl.acm.org/doi/abs/10.1145/3511808.3557380) <br>
+Jialun Wu, Buyue Qian, Yang Li, Zeyu Gao, Meizhi Ju, Yifan Yang, Yefeng Zheng, Tieliang Gong, Chen Li, Xianli Zhang<br>
+Proceedings of the 31st ACM international conference on information & knowledge management<br>
+
+[_Copner: Contrastive learning with prompt guiding for few-shot named entity recognition_](https://aclanthology.org/2022.coling-1.222/) <br>
+Yucheng Huang, Kai He, Yige Wang, Xianli Zhang, Tieliang Gong, Rui Mao, Chen Li<br>
+Proceedings of the 29th International conference on computational linguistics<br>
+
+[_Meta-based self-training and re-weighting for aspect-based sentiment analysis_](https://ieeexplore.ieee.org/abstract/document/9870538/) <br>
+Kai He, Rui Mao, Tieliang Gong, Chen Li, Erik Cambria<br>
+IEEE Transactions on Affective Computing<br>
+
+[_Unsupervised representation learning for tissue segmentation in histopathological images: From global to local contrast_](https://ieeexplore.ieee.org/abstract/document/9830779/) <br>
+Zeyu Gao, Chang Jia, Yang Li, Xianli Zhang, Bangyang Hong, Jialun Wu, Tieliang Gong, Chunbao Wang, Deyu Meng, Yefeng Zheng, Chen Li<br>
+IEEE Transactions on Medical Imaging<br>
+
+[_Markov Subsampling Based on Huber Criterion_](https://ieeexplore.ieee.org/abstract/document/9830623/) <br>
+Tieliang Gong, Yuxin Dong, Hong Chen, Bo Dong, Chen Li<br>
+IEEE Transactions on Neural Networks and Learning Systems<br>
+
+[_HistoML, a markup language for representation and exchange of histopathological features in pathology images_](https://www.nature.com/articles/s41597-022-01505-0) <br>
+Peiliang Lou, Chunbao Wang, Ruifeng Guo, Lixia Yao, Guanjun Zhang, Jun Yang, Yong Yuan, Yuxin Dong, Zeyu Gao, Tieliang Gong, Chen Li<br>
+Scientific Data<br>
+
+[_Regularized Modal Regression on Markov-Dependent Observations: A Theoretical Assessment_](https://ojs.aaai.org/index.php/AAAI/article/view/20627) <br>
+Tieliang Gong, Yuxin Dong, Hong Chen, Wei Feng, Bo Dong, Chen Li<br>
+Proceedings of the AAAI Conference on Artificial Intelligence<br>
+
+[_Uncertainty-based Model Acceleration for Cancer Classification in Whole-Slide Images_](https://ieeexplore.ieee.org/abstract/document/9995601/) <br>
+Zeyu Gao, Anyu Mao, Jialun Wu, Yang Li, Chunbao Wang, Caixia Ding, Tieliang Gong, Chen Li<br>
+2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_Distinguished representation of identical mentions in bio-entity coreference resolution_](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01862-1) <br>
+Yufei Li, Xiangyu Zhou, Jie Ma, Xiaoyong Ma, Pengzhen Cheng, Tieliang Gong, Chen Li<br>
+BMC Medical Informatics and Decision Making<br>
+
+[_Error-Based Knockoffs Inference for Controlled Feature Selection_](https://ojs.aaai.org/index.php/AAAI/article/view/20905) <br>
+Xuebin Zhao, Hong Chen, Yingjie Wang, Weifu Li, Tieliang Gong, Yulong Wang, Feng Zheng<br>
+Proceedings of the AAAI Conference on Artificial Intelligence<br>
+
+[_Computationally Efficient Approximations for Matrix-Based Rényi's Entropy_](https://ieeexplore.ieee.org/abstract/document/10005826/) <br>
+Tieliang Gong, Yuxin Dong, Shujian Yu, Bo Dong<br>
+IEEE Transactions on Signal Processing<br>
+
+
+### 2021
+
+[_Meta mask correction for nuclei segmentation in histopathological image_](https://ieeexplore.ieee.org/abstract/document/9669450/) <br>
+Jiangbo Shi, Chang Jia, Zeyu Gao, Tieliang Gong, Chunbao Wang, Chen Li<br>
+2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_Bioie: Biomedical information extraction with multi-head attention enhanced graph convolutional network_](https://ieeexplore.ieee.org/abstract/document/9669650/) <br>
+Jialun Wu, Ruonan Zhang, Tieliang Gong, Yang Liu, Chunbao Wang, Chen Li<br>
+2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_Pimip: An open source platform for pathology information management and integration_](https://ieeexplore.ieee.org/abstract/document/9669424/) <br>
+Jialun Wu, Anyu Mao, Xinrui Bao, Haichuan Zhang, Zeyu Gao, Chunbao Wang, Tieliang Gong, Chen Li<br>
+2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
 
 [__]() <br>
 <br>
@@ -100,36 +159,6 @@ BMC bioinformatics<br>
 [__]() <br>
 <br>
 <br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-
 
 ### 2020
 
