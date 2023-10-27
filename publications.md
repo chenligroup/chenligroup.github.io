@@ -263,45 +263,89 @@ Medical Image Computing and Computer Assisted Intervention–MICCAI 2020: 23rd I
 Yuxin Dong, Pargorn Puttapirat, Jingyi Deng, Xiangrong Zhang, Chen Li<br>
 Journal of Pathology Informatics<br>
 
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
-[__]() <br>
-<br>
-<br>
-
 
 ### 2019
+
+[_Fully convolutional network-based ensemble method for road extraction from aerial images_](https://ieeexplore.ieee.org/abstract/document/8922802/) <br>
+Xiangrong Zhang, Wenkang Ma, Chen Li, Jie Wu, Xu Tang, Licheng Jiao<br>
+IEEE Geoscience and Remote Sensing Letters<br>
+
+[_OpenHI2—Open source histopathological image platform_](https://ieeexplore.ieee.org/abstract/document/8983322/) <br>
+Pargorn Puttapirat, Haichuan Zhang, Jingyi Deng, Yuxin Dong, Jiangbo Shi, Hongyu He, Zeyu Gao, Chunbao Wang, Xiangrong Zhang, Chen Li<br>
+2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_Effects of annotation granularity in deep learning models for histopathological images_](https://ieeexplore.ieee.org/abstract/document/8983158/) <br>
+Jiangbo Shi, Zeyu Gao, Haichuan Zhang, Pargorn Puttapirat, Chunbao Wang, Xiangrong Zhang, Chen Li<br>
+2019 IEEE international conference on bioinformatics and biomedicine (BIBM)<br>
+
+[_Comparing digital histology slides with multiple staining based on decoloring and dyeing technique_](https://ieeexplore.ieee.org/abstract/document/8982953/) <br>
+Chunbao Wang, Zhe Yang, Kai Wang, Pargorn Puttapirat, Chen Li, Guanjun Zhang<br>
+2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_Extracting kinship from obituary to enhance electronic health records for genetic research_](https://aclanthology.org/W19-3201/) <br>
+Kai He, Jialun Wu, Xiaoyong Ma, Chong Zhang, Ming Huang, Chen Li, Lixia Yao<br>
+Proceedings of the Fourth social media mining for health applications (# SMM4H) workshop & shared task<br>
+
+[_Understanding the patient perspective of epilepsy treatment through text mining of online patient support groups_](https://www.sciencedirect.com/science/article/pii/S1525505018309417) <br>
+Kai He, Na Hong, Samuel Lapalme-Remis, Yangyang Lan, Ming Huang, Chen Li, Lixia Yao<br>
+Epilepsy & Behavior<br>
+
+[_Aerial image road extraction based on an improved generative adversarial network_](https://www.mdpi.com/2072-4292/11/8/930) <br>
+Xiangrong Zhang, Xiao Han, Chen Li, Xu Tang, Huiyu Zhou, Licheng Jiao<br>
+Remote Sensing<br>
+
+[_Description generation for remote sensing images using attribute attention mechanism_](https://www.mdpi.com/2072-4292/11/6/612) <br>
+Xiangrong Zhang, Xin Wang, Xu Tang, Huiyu Zhou, Chen Li<br>
+Remote Sensing<br>
+
+[_Implementation of National Health Informatization in China: survey about the status quo_](https://medinform.jmir.org/2019/1/e12238) <br>
+Chen Li, Xiangdong Xu, Guanghua Zhou, Kai He, Tianliang Qi, Wei Zhang, Feng Tian, Qinghua Zheng, Jianping Hu<br>
+JMIR medical informatics<br>
+
+[_OpenHI: open platform for histopathological image annotation_](https://www.inderscienceonline.com/doi/abs/10.1504/IJDMB.2019.101393) <br>
+Pargorn Puttapirat, Haichuan Zhang, Jingyi Deng, Yuxin Dong, Jiangbo Shi, Peiliang Lou, Chunbao Wang, Lixia Yao, Xiangrong Zhang, Chen Li<br>
+International Journal of Data Mining and Bioinformatics<br>
+
+
 
 
 
 ### 2018
 
+[_OpenHI-An open source framework for annotating histopathological image_](https://ieeexplore.ieee.org/abstract/document/8621393/) <br>
+Pargorn Puttapirat, Haichuan Zhang, Yuchen Lian, Chunbao Wang, Xiangrong Zhang, Lixia Yao, Chen Li<br>
+2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_Spatial sequential recurrent neural network for hyperspectral image classification_](https://ieeexplore.ieee.org/abstract/document/8399509/) <br>
+Xiangrong Zhang, Yujia Sun, Kai Jiang, Chen Li, Licheng Jiao, Huiyu Zhou<br>
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing<br>
+
+[_Hybrid unmixing based on adaptive region segmentation for hyperspectral imagery_](https://ieeexplore.ieee.org/abstract/document/8364589/) <br>
+Xiangrong Zhang, Jingyan Zhang, Chen Li, Cai Cheng, Licheng Jiao, Huiyu Zhou<br>
+IEEE Transactions on Geoscience and Remote Sensing<br>
+
+[_Hyperspectral unmixing via low-rank representation with space consistency constraint and spectral library pruning_](https://www.mdpi.com/2072-4292/10/2/339) <br>
+Xiangrong Zhang, Chen Li, Jingyan Zhang, Qimeng Chen, Jie Feng, Licheng Jiao, Huiyu Zhou<br>
+Remote Sensing<br>
+
+
 ### 2017
 
+[_Recursive autoencoders-based unsupervised feature learning for hyperspectral image classification_](https://ieeexplore.ieee.org/abstract/document/8065033/) <br>
+Xiangrong Zhang, Yanjie Liang, Chen Li, Ning Huyan, Licheng Jiao, Huiyu Zhou<br>
+IEEE Geoscience and Remote Sensing Letters<br>
 
+[_XJSA at SemEval-2017 Task 4: a deep system for sentiment classification in Twitter_](https://aclanthology.org/S17-2122/) <br>
+Yazhou Hao, Yangyang Lan, Yufei Li, Chen Li<br>
+Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)<br>
 
+[_XJNLP at SemEval-2017 Task 12: Clinical temporal information ex-traction with a Hybrid Model_](https://aclanthology.org/S17-2178/) <br>
+Yu Long, Zhijing Li, Xuan Wang, Chen Li<br>
+Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)<br>
+
+[_Improving Chinese sentiment analysis via segmentation-based representation using parallel CNN_](https://link.springer.com/chapter/10.1007/978-3-319-69179-4_47) <br>
+Yazhou Hao, Qinghua Zheng, Yangyang Lan, Yufei Li, Meng Wang, Sen Wang, Chen Li<br>
+Advanced Data Mining and Applications: 13th International Conference, ADMA 2017, Singapore, November 5–6, 2017, Proceedings 13<br>
 
 ### Copyright Notice
 
