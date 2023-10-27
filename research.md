@@ -35,7 +35,7 @@ Our team has published numerous papers in top conferences and journals, includin
         <td rowspan="2">JMIR</td>
         <td rowspan="2">Bioinformatics</td>
         <td rowspan="2">MediA</td>
-        <td rowspan="2"> <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">JBHI</td>
+        <td rowspan="2">JBHI</td>
       </tr>
 </table>
 
