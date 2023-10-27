@@ -60,6 +60,11 @@ Our papers have been cited thousands of times on Google Scholar.
 |----|----|----|
 |2016|SeeDev task of the BioNLP data mining competition|First position|
 
+### Research Projects
+- We has undertaken several **national and provincial-level research projects** and achieved significant research outcomes. 
+- We have applied for **over 50** invention patents and software copyrights. 
+- The outcomes of our projects have been utilized in major initiatives such as **the National Health Commission** and **the nationwide healthcare informationization survey**, as well as in the daily diagnosis and scientific research of multiple healthcare institutions.
+- **BioModels for biological pathway knowledge graphs and systems** have been recognized as the most important resources in the field of systems biology. They have been included as a successful case in **the European Infrastructure for Systems Biology (ISBE)** initiative by the European Union.
 
 #### Digital pathology image analysis
 Based on multi-modal clinical structured data, deep learning algorithms are used to establish clinical auxiliary decision-making models for common clinical prediction tasks. In addition, we consider complex clinical application scenarios, such as insufficient data, missing data, and missing modalities. We also focus on a series of issues related to algorithm implementation, including uncertainty estimation, interpretability and reliability. The team has published many papers in international conferences or journals such as KDD, ICDM, SDM, and Big Data Journal.
