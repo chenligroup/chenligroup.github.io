@@ -4,14 +4,32 @@ permalink: /research/
 ---
 
 ## Our Research Areas
-Our laboratory focuses on the following research areas:
+We focuses on the following research areas:
+### Clinical structured data analysis
+- Utilizing deep learning algorithms to build clinical decision support models for common clinical prediction tasks based on multimodal clinical structured data
+- Addressing complex clinical application scenarios, including limited data, data missingness, and pattern incompleteness
+- Investigating algorithm implementation-related issues such as uncertainty estimation, interpretability, and reliability
+- Published multiple papers on this topic in international conferences or journals such as KDD, ICDM, SDM, and Big Data Journal
+### Digital pathology image analysis
+- Designing and developing computer vision algorithms and computer-aided diagnosis techniques for integrating digital pathology slides into the pathology workflow
+- Expanding pathologists' perspectives beyond microscopic slides
+- Utilizing and integrating existing human medical knowledge to discover pathological phenotypes and human genotypes
+- Uncovering medical and life information that transcends human cognition
 
-1. Clinical structured data analysis
-2. Digital pathology image analysis
-3. Pathology semantic standardization
-4. Deep learning methods on clinical data
+### Pathology semantic standardization
+- Constructing large-scale knowledge graphs as the core task
+- Researching information extraction, coreference resolution, sentiment analysis, and intelligent question answering etc.
+- Actively exploring effective methods for acquiring and applying valuable human knowledge
+- Providing strong support for downstream tasks such as information retrieval, question answering, and recommendation systems
 
-## We Focus On 
+### Deep learning methods on clinical data
+- Image processing methods alone are insufficient for comprehensive pathology analysis and diagnosis
+- Expanding beyond pixel-level analysis to incorporate pathological knowledge and inference-drawing capabilities
+- Building a pathological semantic system for a unified representation of pathological knowledge
+- Enabling computers to perceive and analyze the underlying knowledge behind pathology data
+- Uncovering hidden, immutable laws through computational analysis   
+
+## We are doing
 1. Development of natural language processing and bioinformatics-based text mining AI algorithms
 2. Construction of structured biomedical knowledge graphs from unstructured biomedical and clinical data
 3. Research in the field of healthcare big data, utilizing large-scale data mining and machine learning algorithms for in-depth analysis
@@ -64,17 +82,7 @@ Our papers have been cited thousands of times on Google Scholar.
 - The outcomes of our projects have been utilized in major initiatives such as **the National Health Commission** and **the nationwide healthcare informationization survey**, as well as in the daily diagnosis and scientific research of multiple healthcare institutions.
 - **BioModels for biological pathway knowledge graphs and systems** have been recognized as the most important resources in the field of systems biology. They have been included as a successful case in **the European Infrastructure for Systems Biology (ISBE)** initiative by the European Union.
 
-#### Digital pathology image analysis
-Based on multi-modal clinical structured data, deep learning algorithms are used to establish clinical auxiliary decision-making models for common clinical prediction tasks. In addition, we consider complex clinical application scenarios, such as insufficient data, missing data, and missing modalities. We also focus on a series of issues related to algorithm implementation, including uncertainty estimation, interpretability and reliability. The team has published many papers in international conferences or journals such as KDD, ICDM, SDM, and Big Data Journal.
-
-#### Pathology semantic standardization
-In modern clinical practice, digital pathology plays a crucial role. Unprecedented developments in the field of machine learning have enabled the synergy of artificial intelligence and digital pathology, offering image-based diagnostic possibilities. Integrate digital pathology slides into pathology workflow, design and develop computer vision algorithms and computer-aided diagnosis technology, broaden pathologists' vision beyond microscopic slides; utilize and integrate existing human medical knowledge to discover pathological phenotypes and human genotypes, discovering medical and life information beyond human cognition is our unremitting goal.
-
-#### Deep learning methods on clinical data
-The emergence of knowledge graph technology provides an efficient way to express, organize, manage and utilize massive, heterogeneous and dynamic big data, making the network more intelligent and closer to human cognitive thinking. It can provide strong support for downstream information retrieval, question answering, and recommendation system tasks. This research team takes building a large-scale knowledge graph as its core task, which specifically involves four directions: information extraction, anaphora resolution, sentiment analysis, and intelligent question and answer, aiming to actively explore efficient methods for acquiring and applying valuable human knowledge.
-
-#### Application research of deep learning methods on clinical data
-Although image processing methods can effectively help doctors read pathological slides, "being able to read slides" is not the same as "being able to be a doctor". Existing algorithms only analyze pixels, but cannot draw inferences about other cases with the help of pathological knowledge like pathologists, and do not have the ability to diagnose. cognitive abilities required. Pathological knowledge is "trapped" in PDF documents. It is necessary to build a pathological semantic system and realize a unified semantic representation of pathological knowledge in a computer-capable way. Let the computer see the knowledge itself behind the pixels and let the computer analyze the behind the massive pathology data. Hidden immutable laws.        
+  
         
 
 ### Recruitment
