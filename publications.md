@@ -148,6 +148,67 @@ Jialun Wu, Ruonan Zhang, Tieliang Gong, Yang Liu, Chunbao Wang, Chen Li<br>
 Jialun Wu, Anyu Mao, Xinrui Bao, Haichuan Zhang, Zeyu Gao, Chunbao Wang, Tieliang Gong, Chen Li<br>
 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
 
+[_A precision diagnostic framework of renal cell carcinoma on whole-slide images using deep learning_](https://ieeexplore.ieee.org/abstract/document/9669870/) <br>
+Jialun Wu, Ruonan Zhang, Tieliang Gong, Xinrui Bao, Zeyu Gao, Haichuan Zhang, Chunbao Wang, Chen Li<br>
+2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_A personalized diagnostic generation framework based on multi-source heterogeneous data_](https://ieeexplore.ieee.org/abstract/document/9669427/) <br>
+Jialun Wu, Ruonan Zhang, Tieliang Gong, Haichuan Zhang, Chunbao Wang, Chen Li<br>
+2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)<br>
+
+[_Bat: Beat-aligned transformer for electrocardiogram classification_](https://ieeexplore.ieee.org/abstract/document/9679174/) <br>
+Xiaoyu Li, Chen Li, Yuhua Wei, Yuyao Sun, Jishang Wei, Xiang Li, Buyue Qian<br>
+2021 IEEE International Conference on Data Mining (ICDM)<br>
+
+[_Adaptive affinity loss and erroneous pseudo-label refinement for weakly supervised semantic segmentation_](https://dl.acm.org/doi/abs/10.1145/3474085.3475675) <br>
+Xiangrong Zhang, Zelin Peng, Peng Zhu, Tianyang Zhang, Chen Li, Huiyu Zhou, Licheng Jiao<br>
+Proceedings of the 29th ACM International Conference on Multimedia<br>
+
+[_Foreground refinement network for rotated object detection in remote sensing images_](https://ieeexplore.ieee.org/abstract/document/9535140/) <br>
+Tianyang Zhang, Xiangrong Zhang, Peng Zhu, Puhua Chen, Xu Tang, Chen Li, Licheng Jiao<br>
+IEEE Transactions on Geoscience and Remote Sensing<br>
+
+[_Knowledge enhanced lstm for coreference resolution on biomedical texts_](https://academic.oup.com/bioinformatics/article-abstract/37/17/2699/6168418) <br>
+Yufei Li, Xiaoyong Ma, Xiangyu Zhou, Pengzhen Cheng, Kai He, Chen Li<br>
+Bioinformatics<br>
+
+[_Semantic attention and scale complementary network for instance segmentation in remote sensing images_](https://ieeexplore.ieee.org/abstract/document/9523594/) <br>
+Tianyang Zhang, Xiangrong Zhang, Peng Zhu, Xu Tang, Chen Li, Licheng Jiao, Huiyu Zhou<br>
+IEEE Transactions on Cybernetics<br>
+
+[_Recurrent attention and semantic gate for remote sensing image captioning_](https://ieeexplore.ieee.org/abstract/document/9515452/) <br>
+Yunpeng Li, Xiangrong Zhang, Jing Gu, Chen Li, Xin Wang, Xu Tang, Licheng Jiao<br>
+IEEE Transactions on Geoscience and Remote Sensing<br>
+
+[_Construction of genealogical knowledge graphs from obituaries: Multitask neural network extraction system_](https://www.jmir.org/2021/8/e25670/) <br>
+Kai He, Lixia Yao, JiaWei Zhang, Yufei Li, Chen Li<br>
+Journal of Medical Internet Research<br>
+
+[_A representation model for biological entities by fusing structured axioms with unstructured texts_](https://academic.oup.com/bioinformatics/article-abstract/37/8/1156/5941463) <br>
+Peiliang Lou, YuXin Dong, Antonio Jimeno Yepes, Chen Li<br>
+Bioinformatics<br>
+
+[_DEPDC1 upregulation promotes cell proliferation and predicts poor prognosis in patients with gastric cancer_](https://content.iospress.com/articles/cancer-biomarkers/cbm201760) <br>
+Zhaohua Gong, Hongjin Chu, Jian Chen, Lixin Jiang, Benjiao Gong, Peng Zhu, Chenglin Zhang, Zhixin Wang, Wendi Zhang, Jiahui Wang, Chen Li, Huishan Zhao<br>
+Cancer Biomarkers<br>
+
+[_Learning robust patient representations from multi-modal electronic health records: a supervised deep learning approach_](https://epubs.siam.org/doi/abs/10.1137/1.9781611976700.66) <br>
+Xianli Zhang, Buyue Qian, Yang Li, Yang Liu, Xi Chen, Chong Guan, Chen Li<br>
+Proceedings of the 2021 SIAM International Conference on Data Mining (SDM)<br>
+
+
+[_Nuclei grading of clear cell renal cell carcinoma in histopathological image by composite high-resolution network_](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_13) <br>
+Zeyu Gao, Jiangbo Shi, Xianli Zhang, Yang Li, Haichuan Zhang, Jialun Wu, Chunbao Wang, Deyu Meng, Chen Li<br>
+Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part VIII 24<br>
+
+[_Instance-based vision transformer for subtyping of papillary renal cell carcinoma in histopathological image_](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_29) <br>
+Zeyu Gao, Bangyang Hong, Xianli Zhang, Yang Li, Chang Jia, Jialun Wu, Chunbao Wang, Deyu Meng, Chen Li<br>
+Medical Image Computing and Computer Assisted Intervention–MICCAI 2021: 24th International Conference, Strasbourg, France, September 27–October 1, 2021, Proceedings, Part VIII 24<br>
+
+[__]() <br>
+<br>
+<br>
+
 [__]() <br>
 <br>
 <br>
@@ -159,6 +220,15 @@ Jialun Wu, Anyu Mao, Xinrui Bao, Haichuan Zhang, Zeyu Gao, Chunbao Wang, Tielian
 [__]() <br>
 <br>
 <br>
+
+[__]() <br>
+<br>
+<br>
+
+[__]() <br>
+<br>
+<br>
+
 
 ### 2020
 
