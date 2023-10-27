@@ -20,15 +20,23 @@ Our laboratory focuses on the following research areas:
 ## Our Academic Achievements
 Our team has published numerous papers in top conferences and journals, including but not limited to:
 
-
-
-| 姓名 | 年龄 | 地址         |
-|------|------|--------------|
-| 张三 | 25   | 北京市       |
-| 李四 | 30   | 上海市       |
-| 王五 | 28   | 广州市       |
-| 合并列     || 合并行和列   |
-|      |      | 南京市       |
+<table>
+  <tr>
+    <td rowspan="2">姓名</td>
+    <td>年龄</td>
+    <td colspan="2">地址</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td colspan="2">北京市</td>
+  </tr>
+  <tr>
+    <td>李四</td>
+    <td>30</td>
+    <td>上海市</td>
+    <td>南京市</td>
+  </tr>
+</table>
 
 Our papers have been cited thousands of times on Google Scholar.
 
