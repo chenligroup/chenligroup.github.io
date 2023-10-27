@@ -44,10 +44,6 @@ Our team has published numerous papers in top conferences and journals, includin
     <td>ISBI</td>
     <td>IEEE BIBM</td>
   </tr>
-  <tr>
-    <td colspan="5"  align="center">......</td>
-    <td colspan="5"  align="center">......</td>
-  </tr>
 </table>
 
 Our papers have been cited thousands of times on Google Scholar.
