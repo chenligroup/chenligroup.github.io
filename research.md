@@ -21,22 +21,53 @@ Our laboratory focuses on the following research areas:
 Our team has published numerous papers in top conferences and journals, including but not limited to:
 
 <table>
-  <tr>
-    <td rowspan="2">姓名</td>
-    <td>年龄</td>
-    <td colspan="2">地址</td>
-  </tr>
-  <tr>
-    <td>25</td>
-    <td colspan="2">北京市</td>
-  </tr>
-  <tr>
-    <td>李四</td>
-    <td>30</td>
-    <td>上海市</td>
-    <td>南京市</td>
-  </tr>
+  <tr>
+    <td colspan="5">Conference</td>
+    <td colspan="5">Journal</td>
+  </tr>
+    <tr>
+        <td>ACL</td>
+        <td>AAAI</td>
+        <td>SIGKDD</td>
+        <td>NeuralPS</td>
+        <td>ACM CIKM</td>
+        <td rowspan="2">IEEE TMI</td>
+        <td rowspan="2">JMIR</td>
+        <td rowspan="2">Bioinformatics</td>
+        <td rowspan="2">MediA</td>
+        <td rowspan="2"> <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">JBHI</td>
+      </tr>
 </table>
+
+<!-- <table>
+  <tr>
+    <td colspan="5">Conference</td>
+    <td colspan="5">Journal</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.aclweb.org/portal/">ACL</td>
+    <td><a href="https://aaai.org/">AAAI</td>
+    <td><a href="https://www.kdd.org/">SIGKDD</td>
+    <td><a href="https://neurips.cc/">NeuralPS</td>
+    <td><a href="https://dl.acm.org/conference/cikm">ACM CIKM</td>
+    <td rowspan="2"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42">IEEE TMI</td>
+    <td rowspan="2"><a href="https://www.jmir.org/">JMIR</td>
+    <td rowspan="2"><a href="https://academic.oup.com/bioinformatics/">Bioinformatics</td>
+    <td rowspan="2"><a href="https://www.sciencedirect.com/journal/medical-image-analysis">MediA</td>
+    <td rowspan="2"><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">JBHI</td>
+  </tr>
+  <tr>
+    <td><a href="http://www.miccai.org/">MICCAI</td>
+    <td><a href="https://ieeexplore.ieee.org/xpl/conhome/1000179/all-proceedings">IEEE ICDM</td>
+    <td><a href="https://www.siam.org/conferences/cm/conference/sdm24">SDM</td>
+    <td><a href="https://ieeexplore.ieee.org/xpl/conhome/1000080/all-proceedings">ISBI</td>
+    <td><a href="http://ieeebibm.org/">IEEE BIBM</td>
+  </tr>
+  <tr>
+    <td colspan="5"  align="center">......</td>
+    <td colspan="5"  align="center">......</td>
+  </tr>
+</table> -->
 
 Our papers have been cited thousands of times on Google Scholar.
 
@@ -44,10 +75,10 @@ Our papers have been cited thousands of times on Google Scholar.
 |When|Competition Name|Prize|
 |----|----|----|
 |2016|SeeDev task of the BioNLP data mining competition|First position|
-|2023.7.14|Smart Health Innovation Competition|First Prize in Shannxi Province|
-|2023.9.22|||
-||||
-||||
+|2022|World Artificial Intelligence Conference|Sail Award(Top award)|
+|2023.7.14|Smart Health Innovation Competition|First Prize of Shaanxi Province|
+|2023.9.22|Smart Health Innovation Competition|National Third Prize|
+|2023.7.25|Invention Entrepreneurship and Innovation Award|Second Prize|
 ||||
 ||||
 
