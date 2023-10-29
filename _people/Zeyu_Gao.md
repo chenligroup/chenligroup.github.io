@@ -1,50 +1,63 @@
 ---
-name: Jialun Wu
-position: alumni
-avatar: Zeyu_Gao.jpg
-joined: 2017
+name: Zeyu_Gao
+position: alumni # prof|ap|postdoc|phd|grad|alumni
+avatar: Zeyu_Gao.png
+joined: 2019
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> `xxxxxxxx@xxxxxxxx`<br>
-<i class="fa fa-mobile"></i> xxxxxxxxxxx
+<i class="fa fa-envelope-o"></i> `betpotti@gmail.com`<br>
 
-[<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=bZOcwEYAAAAJ&hl=en)
-
-### Bio
-
-xxxxxxxx
+[<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=CeP6dkcAAAAJ&hl=zh-CN)
 
 <hr>
 
 ### Research Interests
 
-xxxxxxxx
+- Medical Image Analysis
 
-<hr>
+- Computational Pathology
 
-### Current projects
-
-1. xxxxxxxx
-2. xxxxxxxx
-3. xxxxxxxx
-4. xxxxxxxx
-5. xxxxxxxx
+- Weakly Supervised Learning
 
 <hr>
 
 ### Publications
-- **Wu, Jialun**, et al. "Bioie: Biomedical information extraction with multi-head attention enhanced graph convolutional network." _2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2021_.
-- **Wu, Jialun**, et al. "Structured information extraction of pathology reports with attention-based graph convolutional network." _2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020_.
-- **Wu, Jialun**, et al. "Leveraging multiple types of domain knowledge for safe and effective drug recommendation." _Proceedings of the 31st ACM international conference on information & knowledge management. 2022_.
-
+- See in the [google scholar](https://scholar.google.com/citations?user=CeP6dkcAAAAJ&hl=zh-CN)
 
 <hr>
 
-### Posters/Presentations
+### Education
 
-- xxxxxxxx
+- Ph.D. Computer Science, Xi’an Jiaotong University, 2019 to 2023 
+- M.S. Artificial Intelligence, Xidian University, 2014-2017
+- B.S. Electronic Engineering, Xidian University, 2010-2014
 
+<hr>
+
+### Experiment
+- Huawei Technologies Co Ltd, Algorithm Innovation Lab, Algorithm Engineer, 2017-2019
+- University of Cambridge, Department of Oncology, Research Associate, 2023-present
+
+<hr>
+
+### Academic Services
+
+- Reviewer:
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+  - IEEE Transactions on Medical Imaging
+  - Artificial Intelligence In Medicine
+  - International Journal of Surgery
+  - BMC Cancer
+  - MICCAI 2021-2023
+  - BIBM 2021-2023
+
+<hr>
+
+### Rewards
+- MICCAI 2021 Student Travel Award
+- Excellent Postgraduate of Xi’an Jiaotong University 2021-2022
+- The First-class scholarship of Xi’an Jiaotong University 2021-2023

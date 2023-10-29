@@ -5,7 +5,7 @@ avatar: Yige_Wang.jpg
 joined: 2021
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 **Contact**
 
