@@ -1,5 +1,5 @@
 ---
-name: Shiyao_Hu
+name: Shiyao Hu
 position: phd # prof|ap|postdoc|phd|grad|alumni
 avatar: Shiyao_Hu.jpg
 joined: 2020
@@ -9,7 +9,7 @@ joined: 2020
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> `Lorgan@126.com`<br>
+<i class="fa fa-envelope-o"></i> Lorgan@126.com<br>
 <i class="fa fa-mobile"></i> 13649244160
 
 <hr>
