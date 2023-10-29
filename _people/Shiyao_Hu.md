@@ -1,11 +1,11 @@
 ---
 name: Shiyao_Hu
 position: phd # prof|ap|postdoc|phd|grad|alumni
-avatar: Shiyao_Hu.png
+avatar: Shiyao_Hu.jpg
 joined: 2020
 ---
 
-<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 **Contact**
 
@@ -15,5 +15,5 @@ joined: 2020
 <hr>
 
 ### Research Interests
-
-Keypoint Detection; Self-supervised Representation Learning
+- Keypoint Detection 
+- Self-supervised Representation Learning
