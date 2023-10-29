@@ -4,7 +4,7 @@ position: fac
 avatar: Tieliang_Gong.jpg
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _School of Computer Science and Technology Assistant Professor, Xi'an Jiaotong University._ <br>
 

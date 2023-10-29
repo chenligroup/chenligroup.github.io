@@ -5,7 +5,7 @@ avatar: Shiyao_Hu.jpg
 joined: 2020
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 **Contact**
 

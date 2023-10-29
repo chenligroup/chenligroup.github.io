@@ -4,7 +4,7 @@ position: fac
 avatar: Chen_Li.jpg
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _School of Computer Science and Technology Professor, Xi'an Jiaotong University._ <br>
 - _Professor, Doctoral Supervisor._
