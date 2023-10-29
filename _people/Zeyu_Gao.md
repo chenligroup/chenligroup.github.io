@@ -1,7 +1,7 @@
 ---
 name: Zeyu_Gao
 position: alumni # prof|ap|postdoc|phd|grad|alumni
-avatar: Zeyu_Gao.png
+avatar: Zeyu_Gao.jpg
 joined: 2019
 ---
 
@@ -16,11 +16,8 @@ joined: 2019
 <hr>
 
 ### Research Interests
-
 - Medical Image Analysis
-
 - Computational Pathology
-
 - Weakly Supervised Learning
 
 <hr>
