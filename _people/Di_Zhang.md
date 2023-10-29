@@ -23,7 +23,7 @@ joined: 2023
 ###  Education
 
 - 2023- **Ph.D. in Computer Science and Technology**, Xi’an Jiaotong University.
-- 2020-2023 **M.E. in in Mathematics**, Beijing University of Posts and Telecommunications.
+- 2020-2023 **M.E. in Mathematics**, Beijing University of Posts and Telecommunications.
 - 2016-2020 **B.E. in information and computer science**, Harbin Institute of Technology.
 
 <hr>
