@@ -64,7 +64,7 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Zeyu Gao](chenligroup.github.io/Zeyu_Gao/index.html) | Ph.D student (2017-2024) | Postdoc at Cambridge |
+| [Zeyu Gao](Zeyu_Gao/index.html) | Ph.D student (2017-2024) | Postdoc at Cambridge |
 | Kai He| Ph.D student (xxxx-xxxx) | xxxx |
 {% endif %}
 {% endfor %}
