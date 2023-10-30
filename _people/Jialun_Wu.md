@@ -41,43 +41,43 @@ His research interests include Data Mining in the Healthcare and Medical field, 
 
 ### Publications
 1. MEGACare: Knowledge‑guided Multi‑view Hypergraph Predictive Framework for Healthcare
-Wu J, He K, Mao R, et.al. Information Fusion, 2023.
+**Wu J**, He K, Mao R, et.al. Information Fusion, 2023.
 2. Dual Attention and Patient Similarity Network for Drug Recommendation
-Wu J, Dong Y, Gao Z, et.al. Bioinformatics, 2023.
+**Wu J**, Dong Y, Gao Z, et.al. Bioinformatics, 2023.
 3. Leveraging multiple types of domain knowledge for safe and effective drug recommendation
-Wu J, Qian B, Li Y, et.al. 31st ACM International Conference on Information and Knowledge Management (CIKM). 2022.
+**Wu J**, Qian B, Li Y, et.al. 31st ACM International Conference on Information and Knowledge Management (CIKM). 2022.
 4. Research on deep learning model for drug recommendation based on patient similarity analysis
-Wu J, Zhang R, Yuan P, et.al. Data Analysis and Knowledge Discovery (CN), 2022.
+**Wu J**, Zhang R, Yuan P, et.al. Data Analysis and Knowledge Discovery (CN), 2022.
 5. Uncertainty‑based Model Acceleration for Cancer Classification in Whole‑Slide Images
-Gao Z, Mao A, Wu J, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022.
+Gao Z, Mao A, **Wu J**, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022.
 6. A semi‑supervised multi‑task learning framework for cancer classification with weak annotation in
 whole‑slide images
-Gao Z, Hong B, Wu J, et al. Medical Image Analysis, 2022.
+Gao Z, Hong B, **Wu J**, et al. Medical Image Analysis, 2022.
 7. Unsupervised representation learning for tissue segmentation in histopathological images: from global to
 local contrast
-Gao Z, Jia C, Li Y, Wu J, et al. IEEE Transactions on Medical Imaging, 2022.
+Gao Z, Jia C, Li Y, **Wu J**, et al. IEEE Transactions on Medical Imaging, 2022.
 8. A precision diagnostic framework of renal cell carcinoma on whole‑slide images using deep learning
-Wu J, Zhang R, Gong T, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2021.
+**Wu J**, Zhang R, Gong T, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2021.
 9. A personalized diagnostic generation framework based on multi‑source heterogeneous data
-Wu J, Zhang R, Gong T, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2021.
+**Wu J**, Zhang R, Gong T, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2021.
 10. AEFNet: Adaptive Scale Feature Based on Elastic‑and‑Funnel Neural Network for Healthcare Representation
-Liu Y, Wu J, Wei Y, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2021.
+Liu Y, **Wu J**, Wei Y, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2021.
 11. Instance‑based vision transformer for subtyping of papillary renal cell carcinoma in histopathological
 image
-Gao Z, Hong B, Zhang X, Wu J, et al. Medical Image Computing and Computer Assisted Intervention (MICCAI). 2021.
+Gao Z, Hong B, Zhang X, **Wu J**, et al. Medical Image Computing and Computer Assisted Intervention (MICCAI). 2021.
 12. Nuclei grading of clear cell renal cell carcinoma in histopathological image by composite high‑resolution
 network
-Gao Z, Shi J, Zhang X, Wu J, et al. Medical Image Computing and Computer Assisted Intervention (MICCAI). 2021.
+Gao Z, Shi J, Zhang X, **Wu J**, et al. Medical Image Computing and Computer Assisted Intervention (MICCAI). 2021.
 14. BioIE: Biomedical information extraction with multi‑head attention enhanced graph convolutional network
-Wu J, Zhang H, Li C, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2020.
+**Wu J**, Zhang H, Li C, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2020.
 13. W‑Net: A Two‑Stage Convolutional Network for Nucleus Detection in Histopathology Image
-Mao A, Wu J, Bao X, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2020.
+Mao A, **Wu J**, Bao X, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2020.
 15. Structured information extraction of pathology reports with attention‑based graph convolutional network
-Wu J, Tang K, Zhang H, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2019.
+**Wu J**, Tang K, Zhang H, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2019.
 16. PIMIP: An open source platform for pathology information management and integration
-Wu J, Mao A, Zhang H, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2019.
+**Wu J**, Mao A, Zhang H, et al. IEEE International Conference on Bioinformatics and Biomedicine (BIBM). 2019.
 17. Extracting Kinship from Obituary to Enhance Electronic Health Records for Genetic Research
-He K, Wu J, Ma X, et al. ACL Proceedings of the Fourth Social Media Mining for Health Applications. 2019.
+He K, **Wu J**, Ma X, et al. ACL Proceedings of the Fourth Social Media Mining for Health Applications. 2019.
 <hr>
 
 ### Patents
