@@ -19,9 +19,9 @@ Currently, he is on an academic visiting to the school of Computer Science and E
 
 <hr>
 
-### Research Interests
-
-His research interests include Data Mining in the Healthcare and Medical field, also Information retrieval in Nature Language Processing field.     
+### Research Interests 
+- Data Mining in the Healthcare and Medical field
+- Information retrieval in Nature Language Processing field.     
 
 <hr>
 
