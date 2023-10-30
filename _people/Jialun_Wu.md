@@ -1,5 +1,5 @@
 ---
-name: Jialun WU
+name: Jialun Wu
 position: phd
 avatar: Jialun_Wu.png
 joined: 2019
