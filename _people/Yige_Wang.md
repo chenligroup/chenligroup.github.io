@@ -9,8 +9,8 @@ joined: 2021
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> `jihejue039@stu.xjtu.edu.cn`<br>
-<!-- <i class="fa fa-mobile"></i> xxxxxxxxxxx -->
+<i class="fa fa-envelope-o"></i> <jihejue039@stu.xjtu.edu.cn><br>
+
 [<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=n_q77hsAAAAJ&hl=en&oi=sra)
 
 ### Research Interests
@@ -19,15 +19,6 @@ NLP: Named Entity Recognition, LLM
 
 <hr>
 
-<!-- ### Current projects
-
-1. xxxxxxxx
-2. xxxxxxxx
-3. xxxxxxxx
-4. xxxxxxxx
-5. xxxxxxxx
-
-<hr> -->
 
 ### Publications
 
@@ -36,7 +27,3 @@ NLP: Named Entity Recognition, LLM
 
 <hr>
 
-<!-- ### Posters/Presentations
-
-- xxxxxxxx
- -->
