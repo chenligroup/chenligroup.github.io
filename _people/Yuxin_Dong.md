@@ -51,22 +51,17 @@ Yuxin Dong received the B.S. degree from Xi'an Jiaotong University, Xi'an, China
 ### Posters/Presentations
 
 - The 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023). Oral Presentation: "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Rényi's Entropy Perspective."
-
-![]({{site.baseurl}}/images/people/Yuxin_Dong/IJCAI23_Oral.jpg)
+<img width="500" src="{{site.baseurl}}/images/people/Yuxin_Dong/IJCAI23_Oral.jpg" data-action="zoom">
 
 
 - The 21st China Symposium on Machine Learning and Applications (MLA 2023). Poster: "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Rényi's Entropy Perspective."
-
-![]({{site.baseurl}}/images/people/Yuxin_Dong/Poster-MLA23.png)
+<img width="500" src="{{site.baseurl}}/images/people/Yuxin_Dong/Poster-MLA23.png" data-action="zoom">
 
 - The 13th Vision and Learning Seminar (VALSE 2023). Poster: "Optimal Randomized Approximations for Matrix based Renyi's Entropy."
-
-![]({{site.baseurl}}/images/people/Yuxin_Dong/VALSE23_Poster.jpg)
+<img width="500" src="{{site.baseurl}}/images/people/Yuxin_Dong/VALSE23_Poster.jpg" data-action="zoom">
 
 - The 37th Annual AAAI Conference on Artificial Intelligence (AAAI 2023). Poster: "Robust and Fast Measure of Information via Low-Rank Representation."
-
-![]({{site.baseurl}}/images/people/Yuxin_Dong/AAAI23_LRMI_Poster.png)
+<img width="500" src="{{site.baseurl}}/images/people/Yuxin_Dong/AAAI23_LRMI_Poster.png" data-action="zoom">
 
 - The 36th Annual AAAI Conference on Artificial Intelligence (AAAI 2022). Poster: "Regularized Modal Regression on Markov-Dependent Observations: A Theoretical Assessment."
-
-![]({{site.baseurl}}/images/people/Yuxin_Dong/AAAI22_MC_Poster.png)
+<img width="500" src="{{site.baseurl}}/images/people/Yuxin_Dong/AAAI22_MC_Poster.png" data-action="zoom">
