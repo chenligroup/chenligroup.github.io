@@ -9,7 +9,7 @@ joined: 2022
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> leoschopen@gmail.com<br>
+<i class="fa fa-envelope-o"></i> <leoschopen@gmail.com><br>
 
 <hr>
 
