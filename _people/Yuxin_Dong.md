@@ -16,15 +16,17 @@ joined: 2019
 
 ### Bio
 
-Yuxin Dong received the B.S. degree from Xi'an Jiaotong University, Xi'an, China in 2019. He is currently a Ph.D. student with the School of Computer Science and Technology, Xi'an Jiaotong University. His research interests include information theory, learning theory and deep learning.
+- Received the **B.S. degree from Xi'an Jiaotong University**, Xi'an, China in 2019. 
+- Currently a **Ph.D.** student with the School of Computer Science and Technology, Xi'an Jiaotong University. 
+- Research interests include information theory, learning theory and deep learning.
 
 <hr>
 
 ### Research Interests
 
-* Fast approximations for matrix-based information measures.
-* Information-theoretic generalization analysis.
-* Information theory guided deep learning algorithms.
+- Fast approximations for matrix-based information measures.
+- Information-theoretic generalization analysis.
+- Information theory guided deep learning algorithms.
 
 <hr>
 
