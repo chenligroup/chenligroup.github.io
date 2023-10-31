@@ -1,7 +1,7 @@
 ---
 name: JiaWei Niu
 position: grad # prof|ap|postdoc|phd|grad|alumni
-avatar: JiaWei_Niu.jpg
+avatar: Jiawei_Niu.jpg
 joined: 2023
 ---
 
