@@ -9,7 +9,8 @@ joined: 2023
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> `dzhang@stu.xjtu.edu.cn`<br>
+<i class="fa fa-envelope-o"></i> <dzhang@stu.xjtu.edu.cn><br>
+
 
 <hr>
 
