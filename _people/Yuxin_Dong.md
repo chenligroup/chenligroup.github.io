@@ -30,15 +30,15 @@ Yuxin Dong received the B.S. degree from Xi'an Jiaotong University, Xi'an, China
 
 ### Publications
 
-- **Dong Yuxin**, Tieliang Gong, Shujian Yu, Chen Li. "Optimal Randomized Approximations for Matrix based Renyi's Entropy." _IEEE Transactions on Information Theory. 2023_.
-- Gong Tieliang, **Yuxin Dong**, Shujian Yu, Bo Dong. "Computationally Efficient Approximations for Matrix-Based Rényi's Entropy." _IEEE Transactions on Signal Processing. 2023_.
-- **Dong Yuxin**, Tieliang Gong, Shujian Yu, Hong Chen, Chen Li. "Robust and Fast Measure of Information via Low-Rank Representation." _AAAI Conference on Artificial Intelligence. 2023_.
-- **Dong Yuxin**, Tieliang Gong, Hong Chen, Chen Li. "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Rényi's Entropy Perspective." _International Joint Conference on Artificial Intelligence. 2023_.
-- Gong Tieliang, **Yuxin Dong**, Hong Chen, Wei Feng, Bo Dong, Chen Li. "Regularized Modal Regression on Markov-Dependent Observations: A Theoretical Assessment." _AAAI Conference on Artificial Intelligence. 2022_.
-- **Dong Yuxin**, Tieliang Gong, Hong Chen, Chen Li. "Efficient Approximations for Matrix-Based Rényi's Entropy on Sequential Data." _IEEE Transactions on Neural Networks and Learning Systems. 2023_.
-- Gong Tieliang, **Yuxin Dong**, Hong Chen, Bo Dong, Chen Li. "Markov Subsampling Based on Huber Criterion." _IEEE Transactions on Neural Networks and Learning Systems. 2022_.
-- Lou Peiliang, **Yuxin Dong**, Antonio Jimeno Yepes, Chen Li. "A representation model for biological entities by fusing structured axioms with unstructured texts." _Bioinformatics. 2020_.
-- Wu Jialun, **Yuxin Dong**, Zeyu Gao, Tieliang Gong, Chen Li. "Dual Attention and Patient Similarity Network for drug recommendation." _Bioinformatics. 2023_.
+- [**Dong Yuxin**, Tieliang Gong, Shujian Yu, Chen Li. "Optimal Randomized Approximations for Matrix based Renyi's Entropy." _IEEE Transactions on Information Theory. 2023_.](https://ieeexplore.ieee.org/abstract/document/10077595/)
+- [Gong Tieliang, **Yuxin Dong**, Shujian Yu, Bo Dong. "Computationally Efficient Approximations for Matrix-Based Rényi's Entropy." _IEEE Transactions on Signal Processing. 2023_.](https://ieeexplore.ieee.org/abstract/document/10005826/)
+- [**Dong Yuxin**, Tieliang Gong, Shujian Yu, Hong Chen, Chen Li. "Robust and Fast Measure of Information via Low-Rank Representation." _AAAI Conference on Artificial Intelligence. 2023_.](https://ojs.aaai.org/index.php/AAAI/article/view/25906)
+- [**Dong Yuxin**, Tieliang Gong, Hong Chen, Chen Li. "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Rényi's Entropy Perspective." _International Joint Conference on Artificial Intelligence. 2023_.](https://arxiv.org/abs/2305.01143)
+- [Gong Tieliang, **Yuxin Dong**, Hong Chen, Wei Feng, Bo Dong, Chen Li. "Regularized Modal Regression on Markov-Dependent Observations: A Theoretical Assessment." _AAAI Conference on Artificial Intelligence. 2022_.](https://ojs.aaai.org/index.php/AAAI/article/view/20627)
+- [**Dong Yuxin**, Tieliang Gong, Hong Chen, Chen Li. "Efficient Approximations for Matrix-Based Rényi's Entropy on Sequential Data." _IEEE Transactions on Neural Networks and Learning Systems. 2023_.](https://ieeexplore.ieee.org/abstract/document/10255374/)
+- [Gong Tieliang, **Yuxin Dong**, Hong Chen, Bo Dong, Chen Li. "Markov Subsampling Based on Huber Criterion." _IEEE Transactions on Neural Networks and Learning Systems. 2022_.](https://ieeexplore.ieee.org/abstract/document/9830623/)
+- [Lou Peiliang, **Yuxin Dong**, Antonio Jimeno Yepes, Chen Li. "A representation model for biological entities by fusing structured axioms with unstructured texts." _Bioinformatics. 2020_.](https://academic.oup.com/bioinformatics/article-abstract/37/8/1156/5941463)
+- [Wu Jialun, **Yuxin Dong**, Zeyu Gao, Tieliang Gong, Chen Li. "Dual Attention and Patient Similarity Network for drug recommendation." _Bioinformatics. 2023_.](https://academic.oup.com/bioinformatics/article-abstract/39/1/btad003/6972773)
 
 <hr>
 
