@@ -9,7 +9,7 @@ joined: 2023
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> nagwchiav@gmail.com<br>
+<i class="fa fa-envelope-o"></i> <nagwchiav@gmail.com><br>
 
 
 ###  Education

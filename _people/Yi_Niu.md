@@ -9,9 +9,8 @@ joined: 2023
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> `csu_niuyi@163.com`<br>
-<!-- <i class="fa fa-mobile"></i> xxxxxxxxxxx -->
-<!-- [<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=n_q77hsAAAAJ&hl=en&oi=sra) -->
+<i class="fa fa-envelope-o"></i> <csu_niuyi@163.com><br>
+
 
 ###  Education
 

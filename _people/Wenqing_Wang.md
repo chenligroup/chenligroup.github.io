@@ -9,7 +9,7 @@ joined: 2023
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> `destinywq@stu.xjtu.edu.cn`<br>
+<i class="fa fa-envelope-o"></i> <destinywq@stu.xjtu.edu.cn><br>
 <i class="fa fa-mobile"></i> 13722799626
 
 <hr>

@@ -9,9 +9,7 @@ avatar: Chen_Li.jpg
 - _School of Computer Science and Technology Professor, Xi'an Jiaotong University._ <br>
 - _Professor, Doctoral Supervisor._
 
-<!--<i class="fa fa-envelope-o"></i> `cli@xjtu.edu.cn`-->
-<a href="cli@xjtu.edu.cn"><i class="fa fa-envelope-o"></i> cli@xjtu.edu.cn</a>
-
+<i class="fa fa-envelope-o"></i> <cli@xjtu.edu.cn><br>
 
 
 ##  Education:

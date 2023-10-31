@@ -9,8 +9,8 @@ avatar: Tieliang_Gong.jpg
 - _School of Computer Science and Technology Assistant Professor, Xi'an Jiaotong University._ <br>
 
 <!--<i class="fa fa-envelope-o"></i> `cli@xjtu.edu.cn`-->
-<a href="gongtl@xjtu.edu.cn"><i class="fa fa-envelope-o"></i> gongtl@xjtu.edu.cn</a>
-[<i class="fa fa-home"></i> Personally homepage](https://gong-tl.github.io/)
+<i class="fa fa-envelope-o"></i> <gongtl@xjtu.edu.cn></a>
+<i class="fa fa-home"></i> [Personally homepage](https://gong-tl.github.io/)
 
 ## Education and Work Experience:
 
