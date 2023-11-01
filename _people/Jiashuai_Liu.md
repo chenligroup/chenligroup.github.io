@@ -2,7 +2,7 @@
 name: Jiashuai Liu
 position: grad # prof|ap|postdoc|phd|grad|alumni
 avatar: Jiashuai_Liu.jpg
-joined: 2023
+joined: 2022
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
