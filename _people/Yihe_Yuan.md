@@ -1,5 +1,5 @@
 ---
-name: Yihe_Yuan
+name: Yihe Yuan
 position: grad # prof|ap|postdoc|phd|grad|alumni
 avatar: Yihe_Yuan.png
 joined: 2021

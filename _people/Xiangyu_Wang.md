@@ -1,5 +1,5 @@
 ---
-name: Xiangyu_Wang
+name: Xiangyu Wang
 position: grad # prof|ap|postdoc|phd|grad|alumni
 avatar: Xiangyu_Wang.jpg
 joined: 2022

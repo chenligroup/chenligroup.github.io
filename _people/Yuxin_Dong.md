@@ -1,5 +1,5 @@
 ---
-name: Yuxin_Dong
+name: Yuxin Dong
 position: phd # prof|ap|postdoc|phd|grad|alumni
 avatar: Yuxin_Dong.jpg
 joined: 2019
