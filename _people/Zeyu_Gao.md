@@ -29,9 +29,11 @@ joined: 2019
 
 ### Education
 
-- Ph.D. Computer Science, Xi’an Jiaotong University, 2019 to 2023 
-- M.S. Artificial Intelligence, Xidian University, 2014-2017
-- B.S. Electronic Engineering, Xidian University, 2010-2014
+|Year|Degree|School|
+|------|------|------|
+|2019-2023|Ph.D. Computer Science|Xi’an Jiaotong University|
+|2014-2017|M.S. Artificial Intelligence|Xidian University|
+|2010-2014|B.S. Electronic Engineering|Xidian University|
 
 <hr>
 
