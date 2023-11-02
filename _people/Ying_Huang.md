@@ -1,5 +1,5 @@
 ---
-name: Ying Huang（黄颖）
+name: Ying Huang
 position: grad
 avatar: Ying_Huang.jpg
 joined: 2023

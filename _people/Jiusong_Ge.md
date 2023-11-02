@@ -1,5 +1,5 @@
 ---
-name: Jiusong Ge（葛久松）
+name: Jiusong Ge
 position: grad # prof|ap|postdoc|phd|grad|alumni
 avatar: Jiusong_Ge.jpg
 joined: 2023

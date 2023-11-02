@@ -1,5 +1,5 @@
 ---
-name: Jiangbo Shi（时江波）
+name: Jiangbo Shi
 position: phd # prof|ap|postdoc|phd|grad|alumni
 avatar: Jiangbo_Shi.jpg
 joined: 2020
