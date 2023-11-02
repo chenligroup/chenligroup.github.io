@@ -14,8 +14,10 @@ joined: 2023
 
 ### Education
 
-- 2023-**M.E. in Computer Science and Technology**, Xi’an Jiaotong University
-- 2019-2023 **B.E. in Computer Science and Technology** ,Xi'an Jiaotong University
+|Year|Degree|School|
+|------|------|------|
+|2023-|M.E. in Computer Science and Technology|Xi’an Jiaotong University|
+|2019-2023|B.E. in Computer Science and Technology|Xi'an Jiaotong University|
 
 <hr>
 
