@@ -1,5 +1,5 @@
 ---
-name: Weiheng Su
+name: Weiheng Su（苏伟恒）
 position: grad # prof|ap|postdoc|phd|grad|alumni
 avatar: Weiheng_Su.png
 joined: 2022

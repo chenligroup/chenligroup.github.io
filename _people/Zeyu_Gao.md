@@ -1,5 +1,5 @@
 ---
-name: Zeyu_Gao
+name: Zeyu Gao（高泽宇）
 position: alumni # prof|ap|postdoc|phd|grad|alumni
 avatar: Zeyu_Gao.jpg
 joined: 2019

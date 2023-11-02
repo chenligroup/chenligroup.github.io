@@ -1,5 +1,5 @@
 ---
-name: Jiashuai Liu
+name: Jiashuai Liu（刘佳帅）
 position: grad # prof|ap|postdoc|phd|grad|alumni
 avatar: Jiashuai_Liu.jpg
 joined: 2022

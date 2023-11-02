@@ -1,5 +1,5 @@
 ---
-name: Di Zhang
+name: Di Zhang（张迪）
 position: phd # prof|ap|postdoc|phd|grad|alumni
 avatar: Di_Zhang.jpg
 joined: 2023
