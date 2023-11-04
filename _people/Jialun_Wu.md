@@ -10,7 +10,7 @@ joined: 2019
 **Contact**
 
 <i class="fa fa-envelope-o"></i> <Jialun_Wu@outlook.com> 
-<i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?user=bZOcwEYAAAAJ&hl=en" title="Scholar">Scholar</a>
+[<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=bZOcwEYAAAAJ&hl=en)
 
 ### Bio
 
