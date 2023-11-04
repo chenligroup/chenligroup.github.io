@@ -9,7 +9,7 @@ joined: 2019
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> <dongyuxin@stu.xjtu.edu.cn><br>
+<i class="fa fa-envelope-o"></i> <dongyuxin@stu.xjtu.edu.cn>
 <i class="fa fa-mobile"></i> 15249285427
 
 [<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=yFJv-2kAAAAJ&hl=en)
