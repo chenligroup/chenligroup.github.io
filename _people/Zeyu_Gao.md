@@ -9,8 +9,7 @@ joined: 2019
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> <betpotti@gmail.com><br>
-
+<i class="fa fa-envelope-o"></i> <betpotti@gmail.com>
 [<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=CeP6dkcAAAAJ&hl=zh-CN)
 
 <hr>
