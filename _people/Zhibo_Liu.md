@@ -48,16 +48,18 @@ Python, Pytorch, Bash, Latex, TensorFlow, R, MATLAB, JavaScript
 
 ### Projects in Progress
 
-#### GymHisto: Custom OpenAI Gym Environment for Histopathology Image Analysis
-- Built a Custom OpenAI Gym environment using OpenSlide Python library for downstream task of whole slide image
-analysis. Paper writing is in progress
+1. **GymHisto**: Custom OpenAI Gym Environment for Histopathology Image Analysis
+    - Built a Custom OpenAI Gym environment using OpenSlide Python library for downstream task of whole slide image
+    analysis. Paper writing is in progress
 
-#### HistoRL: Histopathology Image Classification with Deep Reinforcement Learning
-- • Developed RL model based on policy gradient method in order to solve gigapixel whole slide image classification task.
-Model training & testing are in progress.
+2. **HistoRL**: Histopathology Image Classification with Deep Reinforcement Learning
+    - Developed RL model based on policy gradient method in order to solve gigapixel whole slide image classification task.
+    Model training & testing are in progress.
 
 ### Publications
-- 
+- **Zhibo Liu**, Feng Gao, Yizhou Wang. A Generative Adversarial Network for AI-Aided Chair Design. _IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)_, 2019
+- Juncheng Liu, **Zhibo Liu**. Analysis of Power Quality Evaluation Method Stipulated by IEC 62749: Assessment of power quality-characteristics of electricity supplied by pubic networks. _High Power Converter Technology_, 2016
+- Juncheng Liu, Zhibo Liu. Analysis for Active Power Filter (APF) Application Bottlenecks._Information Technology-Power Quality_, 2012
 
 
 
