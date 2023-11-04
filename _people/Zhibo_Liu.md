@@ -13,7 +13,7 @@ joined: 2021
 <i class="fa fa-home"></i> [Personally homepage](http://zhibo-liu.com/)
 <br>
 
-<a href="https://www.zhihu.com/people/zhibo_liu"><img src="{{site.baseurl}}/images/people/Zhibo_Liu/logo-zhihu.png" height="26" width="26"><a href="https://gitee.com/zhibo-liu"><img src="{{site.baseurl}}/images/people/Zhibo_Liu/logo-gitee.svg" height="26" width="26"></a>
+<a href="https://www.zhihu.com/people/zhibo_liu"><img src="{{site.baseurl}}/images/people/Zhibo_Liu/logo-zhihu.png" height="26" width="26"></a><a href="https://gitee.com/zhibo-liu"><img src="{{site.baseurl}}/images/people/Zhibo_Liu/logo-gitee.svg" height="26" width="26"></a>
 
 
 ### Bio
