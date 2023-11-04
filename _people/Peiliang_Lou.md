@@ -9,8 +9,7 @@ joined: 2019
 
 **Contact**
 
-<i class="fa fa-envelope-o"></i> <loupeiliang312@stu.xjtu.edu.cn><br>
-
+<i class="fa fa-envelope-o"></i> <loupeiliang312@stu.xjtu.edu.cn>
 [<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=4qSntjYAAAAJ)
 
 <hr>
