@@ -59,7 +59,7 @@ Python, Pytorch, Bash, Latex, TensorFlow, R, MATLAB, JavaScript
 ### Publications
 - **Zhibo Liu**, Feng Gao, Yizhou Wang. A Generative Adversarial Network for AI-Aided Chair Design. _IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)_, 2019
 - Juncheng Liu, **Zhibo Liu**. Analysis of Power Quality Evaluation Method Stipulated by IEC 62749: Assessment of power quality-characteristics of electricity supplied by pubic networks. _High Power Converter Technology_, 2016
-- Juncheng Liu, Zhibo Liu. Analysis for Active Power Filter (APF) Application Bottlenecks._Information Technology-Power Quality_, 2012
+- Juncheng Liu, **Zhibo Liu**. Analysis for Active Power Filter (APF) Application Bottlenecks._Information Technology-Power Quality_, 2012
 
 
 
