@@ -13,8 +13,7 @@ joined: 2021
 <i class="fa fa-home"></i> [Personally homepage](http://zhibo-liu.com/)
 <br>
 
-<a href="https://www.zhihu.com/people/zhibo_liu"><img src="{{site.baseurl}}/images/people/Zhibo_Liu/logo-zhihu.png" height="26" width="26"></a>
-<a href="https://gitee.com/zhibo-liu"><img src="{{site.baseurl}}/images/people/Zhibo_Liu/logo-gitee.svg" height="26" width="26"></a>
+<a href="https://www.zhihu.com/people/zhibo_liu"><img src="{{site.baseurl}}/images/people/Zhibo_Liu/logo-zhihu.png" height="26" width="26"></a><a href="https://gitee.com/zhibo-liu"><img src="{{site.baseurl}}/images/people/Zhibo_Liu/logo-gitee.svg" height="26" width="26"></a>
 
 
 ### Bio
@@ -46,6 +45,20 @@ I'm 刘之博(Zhi-Bo Liu). I got my bachelor degree in math from Huazhong Univer
 ### Skills
 
 Python, Pytorch, Bash, Latex, TensorFlow, R, MATLAB, JavaScript
+
+### Projects in Progress
+
+#### GymHisto: Custom OpenAI Gym Environment for Histopathology Image Analysis
+- Built a Custom OpenAI Gym environment using OpenSlide Python library for downstream task of whole slide image
+analysis. Paper writing is in progress
+
+#### HistoRL: Histopathology Image Classification with Deep Reinforcement Learning
+- • Developed RL model based on policy gradient method in order to solve gigapixel whole slide image classification task.
+Model training & testing are in progress.
+
+### Publications
+- 
+
 
 
 
