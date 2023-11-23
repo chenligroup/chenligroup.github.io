@@ -392,6 +392,11 @@ tbody tr:nth-child(odd) th {
   }
 }
 
+.image-with-text {
+  display: flex;
+  align-items: center;
+}
+
 .projects-list {
   a {
     color: #333;
