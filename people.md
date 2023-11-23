@@ -44,13 +44,21 @@ permalink: /people/
   {% for profile in people_sorted %}
     {% if profile.position contains role %}
       <div class="list-item-people">
-        <p class="list-post-title">
+        <!-- <p class="list-post-title">
           {% if profile.avatar %}
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}" style="width: auto; height: 200px;"></a>
           {% else %}
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg" ></a>
           {% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+        </p> -->
+        <p class="list-post-title" style="text-align: left;">
+          {% if profile.avatar %}
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}" style="width: auto; height: 200px; float: left;"></a>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg" style="float: left;"></a>
+          {% endif %}
+          <a class="name" href="{{ site.baseurl }}{{ profile.url }}" style="float: left;">{{ profile.name }}</a>
         </p>
       </div>    
     {% endif %}
