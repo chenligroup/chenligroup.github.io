@@ -5,12 +5,12 @@
 # Basic
 name:               "Chen Li Group"
 title:              "Chen Li Group at Xi'an Jiaotong University"
-description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
+description:        "Chen Li Group is a research group at Xi'an Jiaotong University."
 
 
 # URL
-# url:                http://chenli.group
-url:                https://chenligroup.github.io/
+url:                http://chenli.group
+# url:                https://chenligroup.github.io/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
