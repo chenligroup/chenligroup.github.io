@@ -11,8 +11,6 @@ avatar: Hong_Yan.jpg
 - _Ph.D. from the Air Force Medical University._<br>
 - _Director of the Shaanxi Provincial Eye Hospital._
 
-<i class="fa fa-envelope-o"></i> <cli@xjtu.edu.cn><br>
-
 ## Professional Affiliations:
 - Member and Expert Member, Ophthalmology Branch, Chinese Medical Association（中华医学会眼科分会委员和专家会员）
 - Standing Committee Member and Cataract Group Committee Member, Ophthalmologist Branch, Chinese Medical Doctor Association（中国医师协会眼科医师分会常委兼白内障学组委员）

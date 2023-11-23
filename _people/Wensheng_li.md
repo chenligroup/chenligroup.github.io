@@ -10,9 +10,6 @@ avatar: Wensheng_Li.jpg
 - _西安交通大学研究生导师，西安医学院研究生导师_<br>
 - _陕西省人民医院病理科主任_<br>
 
-
-<i class="fa fa-envelope-o"></i> <cli@xjtu.edu.cn><br>
-
 ## Research Interests
 - Tumor Pathology
 - Lymphoma Pathology
