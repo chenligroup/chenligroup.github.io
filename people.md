@@ -19,7 +19,7 @@ permalink: /people/
 {% if role == 'fac' %}
 <h3>Faculties</h3>
  {% elsif role == 'adjunctprofessor' %}
-<h3>Adjunct Professor</h3>
+<h3>Adjunct Professors</h3>
  {% elsif role == 'ap' %}
 <h3>Assistant Professor</h3>
  {% elsif role == 'postdoc' %}
