@@ -62,9 +62,9 @@ permalink: /people/
 
 <br>
 
-| Who are they | When were they here | Where they went |
+<!-- | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Zeyu Gao](Zeyu_Gao/index.html) | Ph.D student (2017-2024) | Postdoc at Cambridge |
 | Kai He| Ph.D student (xxxx-xxxx) | xxxx |
 {% endif %}
-{% endfor %}
+{% endfor %} -->
