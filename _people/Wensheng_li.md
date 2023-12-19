@@ -1,6 +1,6 @@
 ---
 name: Prof. Wensheng Li
-position: adjunctprofessor
+position: #adjunctprofessor
 avatar: Wensheng_Li.jpg
 ---
 
