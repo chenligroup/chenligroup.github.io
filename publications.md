@@ -10,8 +10,17 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 ### 2023
-_[Optimal Randomized Approximations for Matrix-based Rényi’s Entropy](https://ieeexplore.ieee.org/abstract/document/10077595/)_ <br>
-Yuxin Dong; Tieliang Gong; Shujian Yu; Chen Li <br>
+[_Construction and effect evaluation of prediction model for red blood cell transfusion requirement in cesarean section based on artificial intelligence_](https://link.springer.com/article/10.1186/s12911-023-02286-1) <br>
+H Chen, B Cao, J Yang, H Ren, X Xia, X Zhang, W Yan, X Liang, C Li<br>
+BMC Medical Informatics and Decision Making 23 (1), 213
+
+[_An Automated Method of 3D Facial Soft Tissue Landmark Prediction Based on Object Detection and Deep Learning_](https://www.mdpi.com/2075-4418/13/11/1853) <br>
+Y Zhang, Y Xu, J Zhao, T Du, D Li, X Zhao, J Wang, C Li, J Tu, K Qi<br>
+Diagnostics 13 (11), 1853
+
+
+[_Optimal Randomized Approximations for Matrix-based Rényi’s Entropy_](https://ieeexplore.ieee.org/abstract/document/10077595/) <br>
+Yuxin Dong, Tieliang Gong, Shujian Yu, Chen Li<br>
 IEEE Transactions on Information Theory
 
 [_Virtual prompt pre-training for prototype-based few-shot relation extraction_](https://www.sciencedirect.com/science/article/abs/pii/S0957417422019455) <br>
@@ -56,14 +65,6 @@ IEEE Transactions on Medical Imaging
 
 [_Robust partially linear models for automatic structure discovery_](https://www.sciencedirect.com/science/article/pii/S0957417423000295) <br>
 Yuxiang Han, Hong Chen, Tieliang Gong, Jia Cai, Hao Deng<br>
-Expert Systems with Applications
-
-[_Optimal Randomized Approximations for Matrix-based Rényi’s Entropy_](https://ieeexplore.ieee.org/abstract/document/10077595/) <br>
-Yuxin Dong, Tieliang Gong, Shujian Yu, Chen Li<br>
-IEEE Transactions on Information Theory
-
-[_Virtual prompt pre-training for prototype-based few-shot relation extraction_](https://www.sciencedirect.com/science/article/pii/S0957417422019455) <br>
-Kai He, Yucheng Huang, Rui Mao, Tieliang Gong, Chen Li, Erik Cambria<br>
 Expert Systems with Applications
 
 [_Childhood Leukemia Classification via Information Bottleneck Enhanced Hierarchical Multi-Instance Learning_](https://ieeexplore.ieee.org/abstract/document/10050510/) <br>
