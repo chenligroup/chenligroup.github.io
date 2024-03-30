@@ -10,6 +10,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 ### 2023
+[_Provable Domain Generalization via Information Theory Guided Distribution Matching_](https://openreview.net/forum?id=jeNWwtIX71) <br>
+Y Dong, T Gong, H Chen, S Song, C Li<br>
+ICLR 2024 Conference
+
 [_Construction and effect evaluation of prediction model for red blood cell transfusion requirement in cesarean section based on artificial intelligence_](https://link.springer.com/article/10.1186/s12911-023-02286-1) <br>
 H Chen, B Cao, J Yang, H Ren, X Xia, X Zhang, W Yan, X Liang, C Li<br>
 BMC Medical Informatics and Decision Making 23 (1), 213
