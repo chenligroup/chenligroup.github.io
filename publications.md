@@ -9,6 +9,16 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2024
+[_Multiple serous cavity effusion screening based on smear images using vision transformer_](https://www.nature.com/articles/s41598-024-58151-2) <br>
+Chunbao Wang, Xiangyu Wang, Zeyu Gao, Caihong Ran, Chen Li & Caixia Ding<br>
+Scientific Reports
+
+[_ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification_](https://www.nature.com/articles/s41598-024-58151-2) <br>
+Jiangbo Shi, Chen Li, Tieliang Gong, Yefeng Zheng, Huazhu Fu<br>
+CVPR 2024
+
+
 ### 2023
 [_Provable Domain Generalization via Information Theory Guided Distribution Matching_](https://openreview.net/forum?id=jeNWwtIX71) <br>
 Y Dong, T Gong, H Chen, S Song, C Li<br>
