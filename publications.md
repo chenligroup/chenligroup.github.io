@@ -14,7 +14,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 Chunbao Wang, Xiangyu Wang, Zeyu Gao, Caihong Ran, Chen Li & Caixia Ding<br>
 Scientific Reports
 
-[_ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification_](https://www.nature.com/articles/s41598-024-58151-2) <br>
+[_ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification_](https://openaccess.thecvf.com/content/CVPR2024/html/Shi_ViLa-MIL_Dual-scale_Vision-Language_Multiple_Instance_Learning_for_Whole_Slide_Image_CVPR_2024_paper.html) <br>
 Jiangbo Shi, Chen Li, Tieliang Gong, Yefeng Zheng, Huazhu Fu<br>
 CVPR 2024
 
